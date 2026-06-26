@@ -1,0 +1,591 @@
+customer_key,customer_id,customer_code,first_name,last_name,gender,email,city,state,country,customer_segment,effective_from,effective_to,is_current
+1,1,CUST00001,Kashvi,Varma,Other,neysa91@gmail.com,Thane,Maharashtra,India,Corporate,2024-10-16,9999-12-31,1
+2,2,CUST00002,Manjari,Thakur,Other,vritikaaurora@sarin.net,Thane,Maharashtra,India,Corporate,2024-04-02,9999-12-31,1
+3,3,CUST00003,Adira,Hayre,Female,bedijayesh@yahoo.com,Jaipur,Rajasthan,India,Retail,2024-09-22,9999-12-31,1
+4,3,CUST00003,Adira,Hayre,Female,bedijayesh@yahoo.com,Thane,Maharashtra,India,Retail,2025-10-02,2024-09-21,0
+5,4,CUST00004,Bhavin,Dayal,Other,ugade@yahoo.com,Ahmedabad,Gujarat,India,Premium,2023-01-24,9999-12-31,1
+6,5,CUST00005,Sana,Borah,Female,kanav04@hotmail.com,Hyderabad,Telangana,India,Corporate,2024-12-13,9999-12-31,1
+7,6,CUST00006,Yakshit,Rana,Other,anyaramakrishnan@gmail.com,Thane,Maharashtra,India,Corporate,2024-11-28,9999-12-31,1
+8,7,CUST00007,Jiya,Kalita,Other,rmaster@grover.com,Ahmedabad,Gujarat,India,Corporate,2023-10-16,9999-12-31,1
+9,8,CUST00008,Aniruddh,Virk,Female,lkrishnamurthy@hotmail.com,Mumbai,Maharashtra,India,Premium,2025-10-24,9999-12-31,1
+10,8,CUST00008,Aniruddh,Virk,Female,lkrishnamurthy@hotmail.com,Jaipur,Rajasthan,India,Premium,2025-01-25,2025-10-23,0
+11,9,CUST00009,Akarsh,Kothari,Other,vaidyazoya@hotmail.com,Jaipur,Rajasthan,India,Premium,2025-10-02,9999-12-31,1
+12,10,CUST00010,Kartik,Kulkarni,Male,kmagar@verma.com,Ahmedabad,Gujarat,India,Corporate,2025-11-16,9999-12-31,1
+13,11,CUST00011,Charvi,Seth,Other,aaina72@hotmail.com,Pune,Maharashtra,India,Retail,2023-04-11,9999-12-31,1
+14,12,CUST00012,Dhanuk,Ratti,Female,rwason@bumb.com,Chennai,Tamil Nadu,India,Retail,2025-08-20,9999-12-31,1
+15,13,CUST00013,Zaina,Sengupta,Other,ilall@sarraf.com,Thane,Maharashtra,India,Corporate,2025-07-24,9999-12-31,1
+16,14,CUST00014,Bhavin,De,Other,yuvraj-21@gmail.com,Chennai,Tamil Nadu,India,Corporate,2024-09-22,9999-12-31,1
+17,15,CUST00015,Neysa,Deo,Female,advikbora@barad-vaidya.info,Chennai,Tamil Nadu,India,Premium,2025-09-13,9999-12-31,1
+18,15,CUST00015,Neysa,Deo,Female,advikbora@barad-vaidya.info,Pune,Maharashtra,India,Premium,2025-06-05,2025-09-12,0
+19,16,CUST00016,Faiyaz,Kara,Other,vritikaaggarwal@wagle.com,Delhi,Delhi,India,Premium,2024-02-14,9999-12-31,1
+20,17,CUST00017,Farhan,Dave,Other,suranya@yahoo.com,Ahmedabad,Gujarat,India,Retail,2025-06-08,9999-12-31,1
+21,18,CUST00018,Baiju,Doshi,Female,jayeshedwin@gmail.com,Delhi,Delhi,India,Corporate,2025-07-26,9999-12-31,1
+22,19,CUST00019,Indrajit,Som,Male,neysa91@sharma.com,Jaipur,Rajasthan,India,Premium,2024-06-14,9999-12-31,1
+23,20,CUST00020,Dhanush,Tata,Female,dhartejas@karnik.com,Ahmedabad,Gujarat,India,Premium,2023-05-12,9999-12-31,1
+24,21,CUST00021,Drishya,Balan,Female,faiyaz19@manda.com,Bengaluru,Karnataka,India,Retail,2025-12-12,9999-12-31,1
+25,21,CUST00021,Drishya,Balan,Female,faiyaz19@manda.com,Ahmedabad,Gujarat,India,Corporate,2025-04-22,2025-12-11,0
+26,22,CUST00022,Myra,Varma,Other,indranswagle@sanghvi.com,Bengaluru,Karnataka,India,Retail,2024-05-22,9999-12-31,1
+27,23,CUST00023,Pari,Wagle,Male,eva87@sangha.info,Hyderabad,Telangana,India,Premium,2025-01-01,9999-12-31,1
+28,24,CUST00024,Yuvraj ,Bahri,Male,akarshchoudhry@yahoo.com,Ahmedabad,Gujarat,India,Premium,2023-10-04,9999-12-31,1
+29,25,CUST00025,Sara,Mahal,Female,ojas26@hotmail.com,Jaipur,Rajasthan,India,Corporate,2024-08-18,9999-12-31,1
+30,26,CUST00026,Divit,Viswanathan,Female,ramakrishnanraunak@hotmail.com,Pune,Maharashtra,India,Premium,2024-09-18,9999-12-31,1
+31,27,CUST00027,Kanav,Bandi,Male,bawabadal@vasa-bahri.com,Jaipur,Rajasthan,India,Retail,2024-02-07,9999-12-31,1
+32,28,CUST00028,Devansh,Dasgupta,Other,qsem@yahoo.com,Thane,Maharashtra,India,Premium,2023-04-16,9999-12-31,1
+33,29,CUST00029,Divyansh,Soni,Female,dviswanathan@yahoo.com,Mumbai,Maharashtra,India,Premium,2023-02-22,9999-12-31,1
+34,30,CUST00030,Zeeshan,Balasubramanian,Female,dharmajandivan@chanda-iyengar.info,Ahmedabad,Gujarat,India,Premium,2024-10-29,9999-12-31,1
+35,31,CUST00031,Anaya,Gill,Other,adahhanda@sen.com,Pune,Maharashtra,India,Retail,2023-11-12,9999-12-31,1
+36,32,CUST00032,Zoya,Jha,Male,badamiemir@keer.org,Delhi,Delhi,India,Corporate,2025-07-28,9999-12-31,1
+37,33,CUST00033,Kavya,Das,Male,azadlala@dugal.biz,Jaipur,Rajasthan,India,Corporate,2025-03-28,9999-12-31,1
+38,34,CUST00034,Nakul,Vig,Other,cluthra@gmail.com,Mumbai,Maharashtra,India,Retail,2023-04-09,9999-12-31,1
+39,35,CUST00035,Parinaaz,Vora,Other,oorjadewan@hotmail.com,Mumbai,Maharashtra,India,Retail,2023-09-22,9999-12-31,1
+40,36,CUST00036,Lakshit,Deshpande,Other,sekhonjiya@chad.com,Jaipur,Rajasthan,India,Retail,2023-10-10,9999-12-31,1
+41,37,CUST00037,Vihaan,Sura,Male,ysuri@yahoo.com,Chennai,Tamil Nadu,India,Premium,2025-12-27,9999-12-31,1
+42,38,CUST00038,Kiaan,Basak,Female,inaaya-zacharia@choudhary.org,Delhi,Delhi,India,Premium,2023-12-24,9999-12-31,1
+43,39,CUST00039,Ojas,Sura,Male,charvi65@aurora.biz,Chennai,Tamil Nadu,India,Premium,2024-08-12,9999-12-31,1
+44,40,CUST00040,Jiya,Kamdar,Other,divyanshkunda@yahoo.com,Ahmedabad,Gujarat,India,Premium,2023-09-03,9999-12-31,1
+45,41,CUST00041,Jiya,Bora,Male,abramgaba@hotmail.com,Bengaluru,Karnataka,India,Premium,2024-04-18,9999-12-31,1
+46,42,CUST00042,Taimur,Sengupta,Female,iyengarneelofar@hotmail.com,Chennai,Tamil Nadu,India,Retail,2024-01-09,9999-12-31,1
+47,43,CUST00043,Prisha,Brahmbhatt,Other,abram39@brar.biz,Jaipur,Rajasthan,India,Corporate,2024-03-19,9999-12-31,1
+48,44,CUST00044,Shamik,Sandhu,Female,renee38@yahoo.com,Bengaluru,Karnataka,India,Corporate,2024-08-26,9999-12-31,1
+49,45,CUST00045,Piya,Sanghvi,Female,tusharwagle@yahoo.com,Thane,Maharashtra,India,Retail,2025-05-31,9999-12-31,1
+50,45,CUST00045,Piya,Sanghvi,Female,tusharwagle@yahoo.com,Mumbai,Maharashtra,India,Corporate,2024-06-24,2025-05-30,0
+51,46,CUST00046,Tejas,D’Alia,Female,bsharaf@hotmail.com,Thane,Maharashtra,India,Corporate,2025-11-03,9999-12-31,1
+52,47,CUST00047,Yasmin,Lalla,Female,cdara@lall-manda.com,Hyderabad,Telangana,India,Premium,2025-02-19,9999-12-31,1
+53,47,CUST00047,Yasmin,Lalla,Female,cdara@lall-manda.com,Chennai,Tamil Nadu,India,Retail,2024-10-06,2025-02-18,0
+54,48,CUST00048,Biju,Chopra,Male,sarrafkabir@hotmail.com,Mumbai,Maharashtra,India,Premium,2025-05-25,9999-12-31,1
+55,48,CUST00048,Biju,Chopra,Male,sarrafkabir@hotmail.com,Jaipur,Rajasthan,India,Premium,2023-07-17,2025-05-24,0
+56,49,CUST00049,Nishith,Bora,Other,hiran80@hotmail.com,Mumbai,Maharashtra,India,Retail,2025-04-07,9999-12-31,1
+57,50,CUST00050,Jayesh,Ahluwalia,Other,anvi26@hotmail.com,Chennai,Tamil Nadu,India,Corporate,2023-09-02,9999-12-31,1
+58,51,CUST00051,Abram,Sathe,Female,hrishita99@ramanathan-dara.com,Hyderabad,Telangana,India,Retail,2025-03-07,9999-12-31,1
+59,52,CUST00052,Nayantara,Desai,Other,pranaysetty@hotmail.com,Chennai,Tamil Nadu,India,Premium,2023-02-18,9999-12-31,1
+60,53,CUST00053,Renee,Gole,Female,shloklad@grewal.com,Thane,Maharashtra,India,Corporate,2024-08-31,9999-12-31,1
+61,54,CUST00054,Ela,Swaminathan,Other,jdalal@swaminathan.com,Jaipur,Rajasthan,India,Retail,2024-12-02,9999-12-31,1
+62,55,CUST00055,Zain,Kari,Male,dhruvbanerjee@yahoo.com,Thane,Maharashtra,India,Retail,2025-05-29,9999-12-31,1
+63,55,CUST00055,Zain,Kari,Male,dhruvbanerjee@yahoo.com,Jaipur,Rajasthan,India,Corporate,2023-11-29,2025-05-28,0
+64,56,CUST00056,Sahil,Wable,Other,bhavinmangal@acharya.org,Hyderabad,Telangana,India,Retail,2023-02-28,9999-12-31,1
+65,57,CUST00057,Mahika,Luthra,Female,lakshit79@kala.com,Chennai,Tamil Nadu,India,Corporate,2025-02-11,9999-12-31,1
+66,58,CUST00058,Nakul,Manda,Male,wbal@yahoo.com,Pune,Maharashtra,India,Corporate,2024-01-11,9999-12-31,1
+67,59,CUST00059,Renee,Maharaj,Male,kartik72@lalla.com,Jaipur,Rajasthan,India,Retail,2025-12-07,9999-12-31,1
+68,59,CUST00059,Renee,Maharaj,Male,kartik72@lalla.com,Hyderabad,Telangana,India,Premium,2025-03-23,2025-12-06,0
+69,60,CUST00060,Kanav,Srinivasan,Other,samrahunar@mane.com,Hyderabad,Telangana,India,Corporate,2025-12-19,9999-12-31,1
+70,60,CUST00060,Kanav,Srinivasan,Other,samrahunar@mane.com,Pune,Maharashtra,India,Corporate,2024-10-06,2025-12-18,0
+71,61,CUST00061,Nirvaan,Gara,Other,hrajan@venkatesh-trivedi.com,Jaipur,Rajasthan,India,Corporate,2024-06-27,9999-12-31,1
+72,62,CUST00062,Baiju,Saraf,Male,hazel85@tandon-ray.com,Delhi,Delhi,India,Corporate,2023-04-26,9999-12-31,1
+73,63,CUST00063,Yakshit,Venkatesh,Other,cherianmisha@lall.com,Ahmedabad,Gujarat,India,Corporate,2023-04-30,9999-12-31,1
+74,64,CUST00064,Renee,Bala,Other,jhaverikhushi@yahoo.com,Chennai,Tamil Nadu,India,Premium,2025-01-07,9999-12-31,1
+75,65,CUST00065,Manjari,Tak,Female,jdin@tara.com,Bengaluru,Karnataka,India,Corporate,2025-02-06,9999-12-31,1
+76,66,CUST00066,Renee,Dasgupta,Male,sodhiraunak@yahoo.com,Ahmedabad,Gujarat,India,Corporate,2024-10-01,9999-12-31,1
+77,67,CUST00067,Azad,Bir,Other,himmat88@jayaraman.biz,Ahmedabad,Gujarat,India,Corporate,2023-01-11,9999-12-31,1
+78,68,CUST00068,Rhea,Mand,Female,luthrauthkarsh@gmail.com,Mumbai,Maharashtra,India,Premium,2023-12-20,9999-12-31,1
+79,69,CUST00069,Raghav,Tata,Male,ibali@singhal.org,Hyderabad,Telangana,India,Corporate,2023-10-10,9999-12-31,1
+80,70,CUST00070,Aarna,Soni,Female,sachdevahazel@chaudry.com,Hyderabad,Telangana,India,Corporate,2023-04-02,9999-12-31,1
+81,71,CUST00071,Aaryahi,Ghosh,Male,dhanuksom@vala-bobal.org,Jaipur,Rajasthan,India,Retail,2025-05-08,9999-12-31,1
+82,71,CUST00071,Aaryahi,Ghosh,Male,dhanuksom@vala-bobal.org,Chennai,Tamil Nadu,India,Premium,2023-11-20,2025-05-07,0
+83,72,CUST00072,Samiha,Dey,Other,kdayal@joshi-soni.com,Hyderabad,Telangana,India,Retail,2023-03-27,9999-12-31,1
+84,73,CUST00073,Aaryahi,Lad,Female,manjariganesan@shan.org,Hyderabad,Telangana,India,Premium,2024-12-11,9999-12-31,1
+85,73,CUST00073,Aaryahi,Lad,Female,manjariganesan@shan.org,Chennai,Tamil Nadu,India,Retail,2024-08-27,2024-12-10,0
+86,74,CUST00074,Anahita,Tata,Other,tejas19@gmail.com,Ahmedabad,Gujarat,India,Retail,2025-05-15,9999-12-31,1
+87,75,CUST00075,Khushi,Saraf,Other,heer33@yahoo.com,Mumbai,Maharashtra,India,Retail,2024-01-03,9999-12-31,1
+88,76,CUST00076,Anahi,Johal,Male,kismatdara@thakkar.org,Thane,Maharashtra,India,Premium,2025-01-08,9999-12-31,1
+89,76,CUST00076,Anahi,Johal,Male,kismatdara@thakkar.org,Hyderabad,Telangana,India,Retail,2025-11-20,2025-01-07,0
+90,77,CUST00077,Chirag,Chopra,Female,sainivivaan@sharma.com,Bengaluru,Karnataka,India,Premium,2025-06-26,9999-12-31,1
+91,77,CUST00077,Chirag,Chopra,Female,sainivivaan@sharma.com,Thane,Maharashtra,India,Corporate,2023-09-17,2025-06-25,0
+92,78,CUST00078,Yuvraj ,Sami,Female,hanshbumb@brar.com,Hyderabad,Telangana,India,Premium,2025-02-08,9999-12-31,1
+93,78,CUST00078,Yuvraj ,Sami,Female,hanshbumb@brar.com,Jaipur,Rajasthan,India,Corporate,2023-08-29,2025-02-07,0
+94,79,CUST00079,Shalv,Madan,Male,venkateshkeya@dube.org,Ahmedabad,Gujarat,India,Retail,2024-12-07,9999-12-31,1
+95,80,CUST00080,Riya,Raman,Male,piya67@sama.com,Hyderabad,Telangana,India,Premium,2024-06-27,9999-12-31,1
+96,81,CUST00081,Bhavin,Boase,Other,vsoman@bajwa.com,Jaipur,Rajasthan,India,Corporate,2024-11-10,9999-12-31,1
+97,82,CUST00082,Hansh,Dugar,Male,rheadeshpande@sampath.com,Chennai,Tamil Nadu,India,Premium,2024-10-04,9999-12-31,1
+98,83,CUST00083,Ritvik,Ramesh,Other,suhana63@hotmail.com,Delhi,Delhi,India,Premium,2024-12-18,9999-12-31,1
+99,84,CUST00084,Pari,Gandhi,Female,vivaan87@gmail.com,Ahmedabad,Gujarat,India,Premium,2023-09-19,9999-12-31,1
+100,85,CUST00085,Ehsaan,Suri,Female,rattahimmat@yahoo.com,Delhi,Delhi,India,Retail,2024-06-29,9999-12-31,1
+101,86,CUST00086,Jivika,Subramaniam,Male,ranbirshukla@dyal.net,Hyderabad,Telangana,India,Corporate,2024-04-24,9999-12-31,1
+102,87,CUST00087,Heer,Tailor,Female,kiararamesh@hotmail.com,Hyderabad,Telangana,India,Corporate,2024-08-24,9999-12-31,1
+103,88,CUST00088,Krish,Manda,Female,kannanritvik@yahoo.com,Mumbai,Maharashtra,India,Retail,2024-11-05,9999-12-31,1
+104,89,CUST00089,Veer,Venkatesh,Female,bseshadri@salvi-sandal.com,Ahmedabad,Gujarat,India,Premium,2025-11-24,9999-12-31,1
+105,90,CUST00090,Amira,Sura,Male,bhattsumer@gmail.com,Mumbai,Maharashtra,India,Premium,2025-03-29,9999-12-31,1
+106,91,CUST00091,Yuvraj ,Ganesh,Other,romil19@yahoo.com,Hyderabad,Telangana,India,Corporate,2023-09-25,9999-12-31,1
+107,92,CUST00092,Aniruddh,Kannan,Male,manianya@soman.net,Ahmedabad,Gujarat,India,Retail,2025-09-16,9999-12-31,1
+108,93,CUST00093,Tara,Rattan,Male,samaira88@ram-rastogi.org,Thane,Maharashtra,India,Retail,2024-07-04,9999-12-31,1
+109,94,CUST00094,Dharmajan,Kala,Other,anvi89@gmail.com,Jaipur,Rajasthan,India,Premium,2025-12-04,9999-12-31,1
+110,94,CUST00094,Dharmajan,Kala,Other,anvi89@gmail.com,Bengaluru,Karnataka,India,Retail,2024-07-21,2025-12-03,0
+111,95,CUST00095,Himmat,Sundaram,Female,khatrikiara@behl-khurana.com,Pune,Maharashtra,India,Retail,2024-11-06,9999-12-31,1
+112,96,CUST00096,Madhav,Chatterjee,Other,drishya00@gmail.com,Pune,Maharashtra,India,Premium,2024-09-25,9999-12-31,1
+113,97,CUST00097,Kiaan,Shenoy,Male,ekrish@gmail.com,Jaipur,Rajasthan,India,Premium,2023-09-30,9999-12-31,1
+114,98,CUST00098,Bhamini,Bhattacharyya,Other,pihureddy@buch.biz,Mumbai,Maharashtra,India,Corporate,2024-01-15,9999-12-31,1
+115,99,CUST00099,Amani,Gole,Female,tiyasaraf@dada.biz,Ahmedabad,Gujarat,India,Premium,2024-11-29,9999-12-31,1
+116,100,CUST00100,Devansh,Bhasin,Female,shuklanehmat@karpe-gole.info,Hyderabad,Telangana,India,Retail,2025-09-27,9999-12-31,1
+117,101,CUST00101,Rhea,Iyer,Female,abram05@krish.com,Pune,Maharashtra,India,Premium,2023-02-14,9999-12-31,1
+118,102,CUST00102,Fateh,Sodhi,Female,hridaan57@hotmail.com,Ahmedabad,Gujarat,India,Corporate,2024-02-12,9999-12-31,1
+119,103,CUST00103,Biju,Sehgal,Other,kabir79@yahoo.com,Chennai,Tamil Nadu,India,Retail,2024-09-14,9999-12-31,1
+120,104,CUST00104,Advik,Dayal,Female,osharaf@halder-chada.com,Thane,Maharashtra,India,Premium,2025-11-08,9999-12-31,1
+121,105,CUST00105,Reyansh,Dhar,Female,shaansidhu@gmail.com,Jaipur,Rajasthan,India,Premium,2025-12-05,9999-12-31,1
+122,106,CUST00106,Nitya,Mangal,Male,bhavin21@hotmail.com,Delhi,Delhi,India,Corporate,2025-01-07,9999-12-31,1
+123,107,CUST00107,Myra,Bera,Other,gargranbir@rout-bhatti.com,Pune,Maharashtra,India,Premium,2024-06-11,9999-12-31,1
+124,108,CUST00108,Bhavin,Johal,Male,kantgatik@hotmail.com,Bengaluru,Karnataka,India,Retail,2023-03-01,9999-12-31,1
+125,109,CUST00109,Prerak,Borah,Male,nthaman@hotmail.com,Jaipur,Rajasthan,India,Premium,2023-09-17,9999-12-31,1
+126,110,CUST00110,Kavya,Mane,Other,bhattacharyyarhea@dyal.net,Ahmedabad,Gujarat,India,Premium,2023-10-07,9999-12-31,1
+127,111,CUST00111,Zara,Jayaraman,Other,anvirao@lad.info,Chennai,Tamil Nadu,India,Corporate,2025-12-26,9999-12-31,1
+128,112,CUST00112,Heer,Chana,Male,saira49@edwin.com,Jaipur,Rajasthan,India,Corporate,2023-11-10,9999-12-31,1
+129,113,CUST00113,Indranil,Sheth,Male,ira04@sachdeva-ganesh.info,Mumbai,Maharashtra,India,Retail,2024-07-28,9999-12-31,1
+130,114,CUST00114,Pari,Mandal,Female,ibanik@yahoo.com,Jaipur,Rajasthan,India,Retail,2024-12-31,9999-12-31,1
+131,115,CUST00115,Pari,Toor,Female,renee52@hotmail.com,Mumbai,Maharashtra,India,Corporate,2024-01-16,9999-12-31,1
+132,116,CUST00116,Shlok,Kaul,Male,uganguly@hotmail.com,Jaipur,Rajasthan,India,Corporate,2023-03-01,9999-12-31,1
+133,117,CUST00117,Darshit,Tandon,Other,dishani98@hotmail.com,Jaipur,Rajasthan,India,Corporate,2023-07-08,9999-12-31,1
+134,118,CUST00118,Lavanya,Sandhu,Male,reneelad@chaudhuri-deol.biz,Delhi,Delhi,India,Premium,2025-05-28,9999-12-31,1
+135,118,CUST00118,Lavanya,Sandhu,Male,reneelad@chaudhuri-deol.biz,Thane,Maharashtra,India,Corporate,2023-10-26,2025-05-27,0
+136,119,CUST00119,Kashvi,Sundaram,Male,oroy@yahoo.com,Hyderabad,Telangana,India,Corporate,2024-11-04,9999-12-31,1
+137,120,CUST00120,Yasmin,Bhalla,Male,akota@goda.com,Thane,Maharashtra,India,Retail,2025-05-15,9999-12-31,1
+138,121,CUST00121,Ishaan,Kuruvilla,Male,kabirsachdev@yahoo.com,Ahmedabad,Gujarat,India,Corporate,2024-03-11,9999-12-31,1
+139,122,CUST00122,Kartik,Jain,Female,masterira@gmail.com,Chennai,Tamil Nadu,India,Corporate,2025-05-16,9999-12-31,1
+140,123,CUST00123,Baiju,Ghosh,Other,aayushrege@devi-jaggi.org,Hyderabad,Telangana,India,Premium,2024-12-18,9999-12-31,1
+141,123,CUST00123,Baiju,Ghosh,Other,aayushrege@devi-jaggi.org,Bengaluru,Karnataka,India,Retail,2025-06-21,2024-12-17,0
+142,124,CUST00124,Anvi,Kari,Male,tvyas@hotmail.com,Delhi,Delhi,India,Retail,2023-11-20,9999-12-31,1
+143,125,CUST00125,Advika,Chakraborty,Other,tarini18@jani.info,Bengaluru,Karnataka,India,Retail,2025-05-26,9999-12-31,1
+144,126,CUST00126,Samiha,Sarma,Female,divyansh16@iyengar.info,Hyderabad,Telangana,India,Retail,2024-08-11,9999-12-31,1
+145,127,CUST00127,Nakul,Khanna,Female,varugheseneysa@arora.net,Ahmedabad,Gujarat,India,Retail,2025-12-26,9999-12-31,1
+146,127,CUST00127,Nakul,Khanna,Female,varugheseneysa@arora.net,Pune,Maharashtra,India,Premium,2024-07-13,2025-12-25,0
+147,128,CUST00128,Emir,Dara,Other,jayeshdayal@seshadri.com,Ahmedabad,Gujarat,India,Corporate,2025-05-01,9999-12-31,1
+148,128,CUST00128,Emir,Dara,Other,jayeshdayal@seshadri.com,Jaipur,Rajasthan,India,Corporate,2025-02-11,2025-04-30,0
+149,129,CUST00129,Trisha,Kalita,Female,indrajitchandra@hotmail.com,Thane,Maharashtra,India,Corporate,2025-08-02,9999-12-31,1
+150,130,CUST00130,Mannat,Walia,Female,manikyamangat@yahoo.com,Jaipur,Rajasthan,India,Premium,2024-08-11,9999-12-31,1
+151,130,CUST00130,Mannat,Walia,Female,manikyamangat@yahoo.com,Mumbai,Maharashtra,India,Premium,2025-12-22,2024-08-10,0
+152,131,CUST00131,Ayesha,Saxena,Other,bhagatanahita@yahoo.com,Thane,Maharashtra,India,Premium,2025-03-02,9999-12-31,1
+153,132,CUST00132,Zeeshan,Singhal,Female,kairasom@hotmail.com,Jaipur,Rajasthan,India,Retail,2024-09-03,9999-12-31,1
+154,132,CUST00132,Zeeshan,Singhal,Female,kairasom@hotmail.com,Chennai,Tamil Nadu,India,Corporate,2023-02-14,2024-09-02,0
+155,133,CUST00133,Ojas,Seshadri,Other,yadavkiara@chana.com,Hyderabad,Telangana,India,Retail,2023-02-07,9999-12-31,1
+156,134,CUST00134,Lakshay,Bali,Other,manehunar@hotmail.com,Jaipur,Rajasthan,India,Retail,2023-09-03,9999-12-31,1
+157,135,CUST00135,Kartik,Balan,Other,oorjakala@gmail.com,Ahmedabad,Gujarat,India,Premium,2024-05-10,9999-12-31,1
+158,136,CUST00136,Veer,Kohli,Female,ltak@gmail.com,Chennai,Tamil Nadu,India,Premium,2024-12-06,9999-12-31,1
+159,136,CUST00136,Veer,Kohli,Female,ltak@gmail.com,Bengaluru,Karnataka,India,Retail,2024-05-03,2024-12-05,0
+160,137,CUST00137,Madhup,Mall,Female,semriaan@hotmail.com,Thane,Maharashtra,India,Premium,2025-09-02,9999-12-31,1
+161,138,CUST00138,Lakshit,Rao,Other,kimaya91@sharaf.com,Ahmedabad,Gujarat,India,Retail,2024-03-23,9999-12-31,1
+162,139,CUST00139,Jayesh,Dutta,Other,anahita51@bhavsar.com,Pune,Maharashtra,India,Premium,2024-08-26,9999-12-31,1
+163,140,CUST00140,Ayesha,Sandhu,Other,shereriya@yahoo.com,Chennai,Tamil Nadu,India,Corporate,2023-02-23,9999-12-31,1
+164,141,CUST00141,Nitara,Deo,Female,kavya64@gmail.com,Jaipur,Rajasthan,India,Retail,2023-09-08,9999-12-31,1
+165,142,CUST00142,Ivana,Chandra,Female,tarini95@kohli.org,Jaipur,Rajasthan,India,Retail,2023-12-15,9999-12-31,1
+166,143,CUST00143,Mishti,Bains,Male,buchira@vaidya.com,Chennai,Tamil Nadu,India,Retail,2025-11-20,9999-12-31,1
+167,143,CUST00143,Mishti,Bains,Male,buchira@vaidya.com,Pune,Maharashtra,India,Premium,2025-04-01,2025-11-19,0
+168,144,CUST00144,Zeeshan,Bedi,Male,anaysetty@lad-kurian.com,Thane,Maharashtra,India,Retail,2024-06-06,9999-12-31,1
+169,145,CUST00145,Dhanush,Kala,Other,nirvaan30@ramachandran-gupta.com,Jaipur,Rajasthan,India,Corporate,2025-11-10,9999-12-31,1
+170,145,CUST00145,Dhanush,Kala,Other,nirvaan30@ramachandran-gupta.com,Ahmedabad,Gujarat,India,Retail,2023-08-25,2025-11-09,0
+171,146,CUST00146,Purab,Bhatnagar,Female,kuruvillamanjari@yahoo.com,Bengaluru,Karnataka,India,Retail,2025-09-13,9999-12-31,1
+172,147,CUST00147,Veer,Mane,Male,madhavchakraborty@gmail.com,Thane,Maharashtra,India,Premium,2024-07-25,9999-12-31,1
+173,148,CUST00148,Hridaan,Gole,Male,fateh66@sachar-saini.info,Mumbai,Maharashtra,India,Corporate,2025-08-23,9999-12-31,1
+174,149,CUST00149,Kaira,Chaudhuri,Other,tdugar@dash.com,Pune,Maharashtra,India,Retail,2025-11-24,9999-12-31,1
+175,150,CUST00150,Seher,Dua,Other,chawlamahika@dewan.com,Mumbai,Maharashtra,India,Premium,2024-12-21,9999-12-31,1
+176,151,CUST00151,Uthkarsh,Walia,Female,esastry@dutta.com,Bengaluru,Karnataka,India,Premium,2023-03-06,9999-12-31,1
+177,152,CUST00152,Rasha,Varkey,Male,kanav86@gmail.com,Ahmedabad,Gujarat,India,Retail,2024-01-01,9999-12-31,1
+178,153,CUST00153,Sumer,Borde,Female,rsetty@yahoo.com,Jaipur,Rajasthan,India,Corporate,2024-11-21,9999-12-31,1
+179,154,CUST00154,Ishita,Chauhan,Female,rashabhattacharyya@choudhry-wali.org,Ahmedabad,Gujarat,India,Retail,2023-07-09,9999-12-31,1
+180,155,CUST00155,Shaan,Varkey,Female,dharhridaan@yahoo.com,Pune,Maharashtra,India,Corporate,2024-11-27,9999-12-31,1
+181,155,CUST00155,Shaan,Varkey,Female,dharhridaan@yahoo.com,Delhi,Delhi,India,Corporate,2025-11-24,2024-11-26,0
+182,156,CUST00156,Ela,Choudhry,Female,kalamohanlal@hotmail.com,Thane,Maharashtra,India,Retail,2023-10-12,9999-12-31,1
+183,157,CUST00157,Tarini,Rau,Female,romilsangha@sundaram-din.org,Ahmedabad,Gujarat,India,Corporate,2025-05-07,9999-12-31,1
+184,158,CUST00158,Badal,Bir,Female,deoela@hotmail.com,Thane,Maharashtra,India,Retail,2025-04-08,9999-12-31,1
+185,158,CUST00158,Badal,Bir,Female,deoela@hotmail.com,Bengaluru,Karnataka,India,Corporate,2023-02-13,2025-04-07,0
+186,159,CUST00159,Nayantara,Deshmukh,Male,nrastogi@bose-ratta.com,Pune,Maharashtra,India,Retail,2024-09-20,9999-12-31,1
+187,160,CUST00160,Raghav,Bhardwaj,Male,qamble@saha-jhaveri.com,Pune,Maharashtra,India,Retail,2025-07-27,9999-12-31,1
+188,161,CUST00161,Tushar,Rana,Male,qswaminathan@gmail.com,Pune,Maharashtra,India,Retail,2025-04-15,9999-12-31,1
+189,161,CUST00161,Tushar,Rana,Male,qswaminathan@gmail.com,Jaipur,Rajasthan,India,Premium,2025-10-26,2025-04-14,0
+190,162,CUST00162,Veer,Ramesh,Other,mirayabandi@chaudry-gala.com,Hyderabad,Telangana,India,Premium,2023-02-11,9999-12-31,1
+191,163,CUST00163,Tara,Dara,Other,navya87@ramesh-date.com,Chennai,Tamil Nadu,India,Retail,2025-08-29,9999-12-31,1
+192,163,CUST00163,Tara,Dara,Other,navya87@ramesh-date.com,Delhi,Delhi,India,Premium,2023-01-11,2025-08-28,0
+193,164,CUST00164,Akarsh,Sankaran,Other,atwalhazel@kohli.com,Hyderabad,Telangana,India,Premium,2025-06-17,9999-12-31,1
+194,165,CUST00165,Anahi,Dhar,Female,bhallarohan@gmail.com,Chennai,Tamil Nadu,India,Retail,2024-07-02,9999-12-31,1
+195,165,CUST00165,Anahi,Dhar,Female,bhallarohan@gmail.com,Jaipur,Rajasthan,India,Retail,2025-08-19,2024-07-01,0
+196,166,CUST00166,Elakshi,De,Other,kartikluthra@gmail.com,Hyderabad,Telangana,India,Corporate,2025-04-06,9999-12-31,1
+197,167,CUST00167,Saanvi,Bal,Male,chandragokul@yahoo.com,Thane,Maharashtra,India,Corporate,2024-04-15,9999-12-31,1
+198,168,CUST00168,Vihaan,Gala,Other,xsunder@mallick.com,Jaipur,Rajasthan,India,Corporate,2025-03-19,9999-12-31,1
+199,169,CUST00169,Nakul,Das,Female,purabvenkataraman@yahoo.com,Jaipur,Rajasthan,India,Premium,2025-02-13,9999-12-31,1
+200,170,CUST00170,Nakul,Choudhury,Other,tmammen@hotmail.com,Jaipur,Rajasthan,India,Corporate,2024-09-10,9999-12-31,1
+201,171,CUST00171,Prisha,Shere,Other,lbuch@hotmail.com,Hyderabad,Telangana,India,Corporate,2025-10-22,9999-12-31,1
+202,171,CUST00171,Prisha,Shere,Other,lbuch@hotmail.com,Chennai,Tamil Nadu,India,Corporate,2023-12-14,2025-10-21,0
+203,172,CUST00172,Anya,Iyengar,Other,zainadayal@hotmail.com,Hyderabad,Telangana,India,Premium,2023-03-16,9999-12-31,1
+204,173,CUST00173,Ranbir,Sharaf,Other,psen@ramanathan.net,Chennai,Tamil Nadu,India,Corporate,2024-04-07,9999-12-31,1
+205,174,CUST00174,Yasmin,Sridhar,Female,nitya32@upadhyay.com,Jaipur,Rajasthan,India,Corporate,2024-12-18,9999-12-31,1
+206,175,CUST00175,Purab,Chaudry,Female,adira35@ghose.com,Chennai,Tamil Nadu,India,Corporate,2025-12-12,9999-12-31,1
+207,176,CUST00176,Ranbir,Seth,Other,behloorja@grover.com,Delhi,Delhi,India,Premium,2024-05-14,9999-12-31,1
+208,177,CUST00177,Rania,Sachdeva,Male,xmanne@doshi.biz,Mumbai,Maharashtra,India,Retail,2023-08-08,9999-12-31,1
+209,178,CUST00178,Vardaniya,Boase,Female,vshankar@hotmail.com,Chennai,Tamil Nadu,India,Corporate,2025-08-26,9999-12-31,1
+210,179,CUST00179,Hansh,Khurana,Male,taimurlata@gmail.com,Mumbai,Maharashtra,India,Retail,2023-06-23,9999-12-31,1
+211,180,CUST00180,Madhup,Zacharia,Other,joshihridaan@dhawan-bajwa.org,Ahmedabad,Gujarat,India,Corporate,2025-04-25,9999-12-31,1
+212,180,CUST00180,Madhup,Zacharia,Other,joshihridaan@dhawan-bajwa.org,Bengaluru,Karnataka,India,Retail,2024-12-11,2025-04-24,0
+213,181,CUST00181,Dishani,Bajaj,Other,taran16@gmail.com,Thane,Maharashtra,India,Retail,2023-05-16,9999-12-31,1
+214,182,CUST00182,Renee,Cheema,Male,sainivanya@golla-khurana.com,Chennai,Tamil Nadu,India,Retail,2023-07-23,9999-12-31,1
+215,183,CUST00183,Tara,Cherian,Other,chatterjeekanav@hotmail.com,Jaipur,Rajasthan,India,Retail,2025-01-29,9999-12-31,1
+216,183,CUST00183,Tara,Cherian,Other,chatterjeekanav@hotmail.com,Delhi,Delhi,India,Premium,2025-09-21,2025-01-28,0
+217,184,CUST00184,Dhanuk,Vyas,Female,mammentaimur@kamdar-dass.com,Ahmedabad,Gujarat,India,Retail,2025-08-08,9999-12-31,1
+218,184,CUST00184,Dhanuk,Vyas,Female,mammentaimur@kamdar-dass.com,Ahmedabad,Gujarat,India,Premium,2023-07-23,2025-08-07,0
+219,185,CUST00185,Saanvi,Dass,Female,samar80@brar.info,Ahmedabad,Gujarat,India,Premium,2023-05-06,9999-12-31,1
+220,186,CUST00186,Riaan,Mangal,Female,wkumer@gmail.com,Mumbai,Maharashtra,India,Corporate,2025-11-19,9999-12-31,1
+221,186,CUST00186,Riaan,Mangal,Female,wkumer@gmail.com,Jaipur,Rajasthan,India,Premium,2025-04-14,2025-11-18,0
+222,187,CUST00187,Seher,Gara,Male,desaitaran@gmail.com,Thane,Maharashtra,India,Retail,2024-12-17,9999-12-31,1
+223,188,CUST00188,Onkar,Loyal,Male,zaracomar@majumdar-sani.com,Hyderabad,Telangana,India,Corporate,2024-06-12,9999-12-31,1
+224,189,CUST00189,Kashvi,Sodhi,Male,mannat67@varughese-sahni.com,Thane,Maharashtra,India,Corporate,2025-04-20,9999-12-31,1
+225,190,CUST00190,Badal,Gokhale,Other,dassaarav@sengupta-ramanathan.com,Hyderabad,Telangana,India,Corporate,2024-10-15,9999-12-31,1
+226,191,CUST00191,Samarth,Edwin,Female,chadhaojas@hotmail.com,Jaipur,Rajasthan,India,Premium,2025-11-22,9999-12-31,1
+227,191,CUST00191,Samarth,Edwin,Female,chadhaojas@hotmail.com,Hyderabad,Telangana,India,Premium,2024-01-07,2025-11-21,0
+228,192,CUST00192,Faiyaz,Sandhu,Other,zeeshan07@srinivas.com,Chennai,Tamil Nadu,India,Corporate,2024-06-17,9999-12-31,1
+229,193,CUST00193,Prerak,Desai,Female,tganguly@sunder.com,Pune,Maharashtra,India,Premium,2025-01-02,9999-12-31,1
+230,194,CUST00194,Vedika,Soni,Other,manikya13@dara.com,Bengaluru,Karnataka,India,Corporate,2023-01-04,9999-12-31,1
+231,195,CUST00195,Ivan,Sankaran,Female,rray@rajagopalan.biz,Delhi,Delhi,India,Corporate,2023-09-09,9999-12-31,1
+232,196,CUST00196,Jhanvi,Kara,Female,kalevanya@hotmail.com,Ahmedabad,Gujarat,India,Premium,2025-02-09,9999-12-31,1
+233,197,CUST00197,Renee,Ramaswamy,Female,xkamdar@tiwari.biz,Ahmedabad,Gujarat,India,Premium,2025-07-01,9999-12-31,1
+234,197,CUST00197,Renee,Ramaswamy,Female,xkamdar@tiwari.biz,Delhi,Delhi,India,Premium,2024-10-26,2025-06-30,0
+235,198,CUST00198,Ahana ,Atwal,Female,mishti87@gade-master.com,Ahmedabad,Gujarat,India,Premium,2025-03-29,9999-12-31,1
+236,198,CUST00198,Ahana ,Atwal,Female,mishti87@gade-master.com,Mumbai,Maharashtra,India,Corporate,2023-01-21,2025-03-28,0
+237,199,CUST00199,Aarav,Mammen,Female,rheabaria@kurian.com,Mumbai,Maharashtra,India,Premium,2023-08-26,9999-12-31,1
+238,200,CUST00200,Kavya,Deo,Male,esaxena@dash.info,Hyderabad,Telangana,India,Retail,2024-07-21,9999-12-31,1
+239,200,CUST00200,Kavya,Deo,Male,esaxena@dash.info,Pune,Maharashtra,India,Corporate,2023-01-05,2024-07-20,0
+240,201,CUST00201,Ahana ,Wali,Other,tkannan@gmail.com,Jaipur,Rajasthan,India,Corporate,2025-07-23,9999-12-31,1
+241,202,CUST00202,Mehul,Dugar,Male,hazelgala@yohannan.com,Mumbai,Maharashtra,India,Premium,2024-08-15,9999-12-31,1
+242,203,CUST00203,Lavanya,Rege,Other,arnavshenoy@yahoo.com,Thane,Maharashtra,India,Corporate,2023-08-03,9999-12-31,1
+243,204,CUST00204,Ivana,Saxena,Other,sairaravel@contractor-bail.com,Mumbai,Maharashtra,India,Corporate,2025-07-24,9999-12-31,1
+244,204,CUST00204,Ivana,Saxena,Other,sairaravel@contractor-bail.com,Hyderabad,Telangana,India,Corporate,2023-10-08,2025-07-23,0
+245,205,CUST00205,Vanya,Dass,Female,kavya09@yahoo.com,Ahmedabad,Gujarat,India,Premium,2024-11-16,9999-12-31,1
+246,205,CUST00205,Vanya,Dass,Female,kavya09@yahoo.com,Jaipur,Rajasthan,India,Premium,2024-01-25,2024-11-15,0
+247,206,CUST00206,Dhanush,Baria,Other,sehersolanki@yahoo.com,Mumbai,Maharashtra,India,Premium,2023-05-21,9999-12-31,1
+248,207,CUST00207,Oorja,Badal,Female,ichaudhry@hotmail.com,Ahmedabad,Gujarat,India,Retail,2023-10-28,9999-12-31,1
+249,208,CUST00208,Miraya,Kadakia,Other,manianya@shah.com,Chennai,Tamil Nadu,India,Premium,2024-01-28,9999-12-31,1
+250,209,CUST00209,Nitara,Rajagopal,Male,lokeemir@chadha.com,Pune,Maharashtra,India,Corporate,2024-02-25,9999-12-31,1
+251,210,CUST00210,Badal,Shere,Female,nitara79@anne-divan.com,Thane,Maharashtra,India,Retail,2024-01-31,9999-12-31,1
+252,211,CUST00211,Rhea,Sahota,Other,dhanukchoudhury@kalla-bora.com,Thane,Maharashtra,India,Corporate,2025-01-11,9999-12-31,1
+253,211,CUST00211,Rhea,Sahota,Other,dhanukchoudhury@kalla-bora.com,Jaipur,Rajasthan,India,Premium,2023-01-21,2025-01-10,0
+254,212,CUST00212,Aarna,Kohli,Other,joshinayantara@bawa-bhardwaj.net,Hyderabad,Telangana,India,Corporate,2024-08-14,9999-12-31,1
+255,212,CUST00212,Aarna,Kohli,Other,joshinayantara@bawa-bhardwaj.net,Jaipur,Rajasthan,India,Premium,2023-07-10,2024-08-13,0
+256,213,CUST00213,Advika,Bail,Male,priyansh09@lala-bora.com,Jaipur,Rajasthan,India,Retail,2024-12-13,9999-12-31,1
+257,214,CUST00214,Amira,Srinivasan,Female,vedikadara@hotmail.com,Hyderabad,Telangana,India,Corporate,2023-09-03,9999-12-31,1
+258,215,CUST00215,Nehmat,Ray,Male,senzaina@gmail.com,Delhi,Delhi,India,Premium,2024-01-27,9999-12-31,1
+259,216,CUST00216,Khushi,Handa,Male,zachariahkhushi@yahoo.com,Pune,Maharashtra,India,Corporate,2024-08-10,9999-12-31,1
+260,217,CUST00217,Adira,Yohannan,Other,anay30@yahoo.com,Bengaluru,Karnataka,India,Retail,2024-07-19,9999-12-31,1
+261,218,CUST00218,Anvi,Mand,Female,osrinivasan@bajwa-madan.com,Pune,Maharashtra,India,Corporate,2024-10-05,9999-12-31,1
+262,218,CUST00218,Anvi,Mand,Female,osrinivasan@bajwa-madan.com,Hyderabad,Telangana,India,Corporate,2024-07-03,2024-10-04,0
+263,219,CUST00219,Advik,Dua,Female,bansalarnav@yahoo.com,Chennai,Tamil Nadu,India,Premium,2023-05-28,9999-12-31,1
+264,220,CUST00220,Indrans,Kant,Female,jrama@yahoo.com,Mumbai,Maharashtra,India,Retail,2023-05-20,9999-12-31,1
+265,221,CUST00221,Taran,Venkataraman,Female,elakshi23@hotmail.com,Bengaluru,Karnataka,India,Retail,2024-09-05,9999-12-31,1
+266,221,CUST00221,Taran,Venkataraman,Female,elakshi23@hotmail.com,Delhi,Delhi,India,Premium,2023-01-24,2024-09-04,0
+267,222,CUST00222,Sana,Chander,Other,haggarwal@sastry-golla.net,Jaipur,Rajasthan,India,Corporate,2025-04-23,9999-12-31,1
+268,223,CUST00223,Anya,Handa,Other,settypriyansh@gmail.com,Mumbai,Maharashtra,India,Premium,2025-01-02,9999-12-31,1
+269,224,CUST00224,Ojas,Rao,Other,veer69@yahoo.com,Ahmedabad,Gujarat,India,Corporate,2025-05-28,9999-12-31,1
+270,225,CUST00225,Aarush,Gara,Female,ramadah@gmail.com,Delhi,Delhi,India,Corporate,2024-02-18,9999-12-31,1
+271,226,CUST00226,Anaya,Raj,Male,nitara96@hotmail.com,Delhi,Delhi,India,Corporate,2025-04-04,9999-12-31,1
+272,227,CUST00227,Sana,Rajagopalan,Other,manikyataneja@sem.org,Mumbai,Maharashtra,India,Retail,2025-06-06,9999-12-31,1
+273,228,CUST00228,Jivika,Chaudhary,Other,pihukhanna@gmail.com,Mumbai,Maharashtra,India,Premium,2025-08-25,9999-12-31,1
+274,229,CUST00229,Neysa,Bajwa,Male,geraaradhya@deep.biz,Delhi,Delhi,India,Retail,2023-09-07,9999-12-31,1
+275,230,CUST00230,Tushar,Ramesh,Female,saradin@sachar-ghose.com,Bengaluru,Karnataka,India,Corporate,2025-11-23,9999-12-31,1
+276,230,CUST00230,Tushar,Ramesh,Female,saradin@sachar-ghose.com,Mumbai,Maharashtra,India,Premium,2024-07-23,2025-11-22,0
+277,231,CUST00231,Eva,Saha,Male,vaibhavbera@hotmail.com,Pune,Maharashtra,India,Retail,2025-03-17,9999-12-31,1
+278,232,CUST00232,Divyansh,Kunda,Female,kiaan56@gmail.com,Hyderabad,Telangana,India,Premium,2024-01-03,9999-12-31,1
+279,233,CUST00233,Samiha,Ahluwalia,Male,bakshirasha@sane-shanker.net,Chennai,Tamil Nadu,India,Premium,2025-06-04,9999-12-31,1
+280,234,CUST00234,Jivin,Hari,Other,lakshay34@yahoo.com,Delhi,Delhi,India,Corporate,2024-03-16,9999-12-31,1
+281,235,CUST00235,Vaibhav,Krishna,Other,kashvi09@gmail.com,Ahmedabad,Gujarat,India,Retail,2024-06-20,9999-12-31,1
+282,236,CUST00236,Suhana,Trivedi,Other,ndalal@sheth-bhatnagar.com,Delhi,Delhi,India,Premium,2023-07-02,9999-12-31,1
+283,237,CUST00237,Aniruddh,Balasubramanian,Other,tariniray@baria.org,Ahmedabad,Gujarat,India,Retail,2023-12-27,9999-12-31,1
+284,238,CUST00238,Tanya,Bath,Male,aayushkhalsa@krishnamurthy-singhal.org,Chennai,Tamil Nadu,India,Premium,2025-08-13,9999-12-31,1
+285,239,CUST00239,Saksham,Gandhi,Male,manikyabhatti@warrior.biz,Hyderabad,Telangana,India,Premium,2023-07-07,9999-12-31,1
+286,240,CUST00240,Inaaya ,Dugal,Female,balakrishnanbhavin@cherian.biz,Ahmedabad,Gujarat,India,Corporate,2024-11-19,9999-12-31,1
+287,241,CUST00241,Ivana,Lalla,Male,gtak@hotmail.com,Delhi,Delhi,India,Corporate,2025-05-07,9999-12-31,1
+288,242,CUST00242,Faiyaz,Luthra,Male,mohanlalchoudhury@yahoo.com,Thane,Maharashtra,India,Retail,2023-04-23,9999-12-31,1
+289,243,CUST00243,Emir,Sane,Other,eshanitella@swaminathan.biz,Delhi,Delhi,India,Corporate,2024-04-07,9999-12-31,1
+290,244,CUST00244,Ayesha,Madan,Female,nishithmallick@kala.com,Hyderabad,Telangana,India,Premium,2023-12-15,9999-12-31,1
+291,245,CUST00245,Drishya,Karnik,Male,vivaankulkarni@hotmail.com,Jaipur,Rajasthan,India,Premium,2023-06-02,9999-12-31,1
+292,246,CUST00246,Shray,Goda,Female,ojas15@devi.com,Chennai,Tamil Nadu,India,Retail,2023-01-17,9999-12-31,1
+293,247,CUST00247,Jiya,Butala,Male,jdewan@kurian-koshy.org,Chennai,Tamil Nadu,India,Retail,2024-07-14,9999-12-31,1
+294,247,CUST00247,Jiya,Butala,Male,jdewan@kurian-koshy.org,Mumbai,Maharashtra,India,Premium,2023-01-16,2024-07-13,0
+295,248,CUST00248,Bhavin,Mannan,Female,nehmat15@chandra.com,Pune,Maharashtra,India,Retail,2023-02-08,9999-12-31,1
+296,249,CUST00249,Piya,Mandal,Male,miraya17@hotmail.com,Thane,Maharashtra,India,Corporate,2025-06-27,9999-12-31,1
+297,250,CUST00250,Ishaan,Hari,Female,gkoshy@majumdar-hari.com,Bengaluru,Karnataka,India,Premium,2025-04-16,9999-12-31,1
+298,250,CUST00250,Ishaan,Hari,Female,gkoshy@majumdar-hari.com,Mumbai,Maharashtra,India,Corporate,2024-03-24,2025-04-15,0
+299,251,CUST00251,Adira,Dani,Other,umanganand@datta.biz,Ahmedabad,Gujarat,India,Retail,2025-07-08,9999-12-31,1
+300,252,CUST00252,Divyansh,Hans,Female,kannanira@kar-contractor.com,Chennai,Tamil Nadu,India,Premium,2023-06-08,9999-12-31,1
+301,253,CUST00253,Umang,Sanghvi,Male,shroffheer@yahoo.com,Thane,Maharashtra,India,Retail,2023-06-14,9999-12-31,1
+302,254,CUST00254,Aayush,Dewan,Female,khoslabhavin@gmail.com,Bengaluru,Karnataka,India,Retail,2023-03-21,9999-12-31,1
+303,255,CUST00255,Neelofar,Sem,Male,yashvi13@sehgal.com,Mumbai,Maharashtra,India,Premium,2023-01-15,9999-12-31,1
+304,256,CUST00256,Badal,Grewal,Female,banikadvik@yahoo.com,Ahmedabad,Gujarat,India,Retail,2023-06-27,9999-12-31,1
+305,257,CUST00257,Shayak,Kakar,Male,dhanush19@tata-sangha.com,Delhi,Delhi,India,Retail,2025-08-03,9999-12-31,1
+306,257,CUST00257,Shayak,Kakar,Male,dhanush19@tata-sangha.com,Pune,Maharashtra,India,Retail,2024-01-01,2025-08-02,0
+307,258,CUST00258,Rohan,Apte,Other,aaina01@hotmail.com,Jaipur,Rajasthan,India,Premium,2023-07-11,9999-12-31,1
+308,259,CUST00259,Anay,Maharaj,Other,kumerkashvi@yahoo.com,Delhi,Delhi,India,Retail,2025-10-18,9999-12-31,1
+309,260,CUST00260,Nirvaan,Vora,Other,vivaan24@gmail.com,Pune,Maharashtra,India,Retail,2024-02-22,9999-12-31,1
+310,261,CUST00261,Saksham,Dada,Male,sridharnayantara@dhar-rama.net,Bengaluru,Karnataka,India,Retail,2024-02-07,9999-12-31,1
+311,262,CUST00262,Hansh,Behl,Male,suridhruv@yahoo.com,Thane,Maharashtra,India,Premium,2025-11-14,9999-12-31,1
+312,263,CUST00263,Mohanlal,Seth,Other,reyanshbasak@jhaveri.com,Thane,Maharashtra,India,Corporate,2025-10-14,9999-12-31,1
+313,263,CUST00263,Mohanlal,Seth,Other,reyanshbasak@jhaveri.com,Hyderabad,Telangana,India,Corporate,2023-10-05,2025-10-13,0
+314,264,CUST00264,Renee,Anand,Female,ntank@kothari.com,Chennai,Tamil Nadu,India,Premium,2025-08-22,9999-12-31,1
+315,265,CUST00265,Vanya,Jhaveri,Female,shamik82@yahoo.com,Delhi,Delhi,India,Retail,2023-04-26,9999-12-31,1
+316,266,CUST00266,Ishita,Golla,Female,anaya75@date.org,Thane,Maharashtra,India,Corporate,2025-09-18,9999-12-31,1
+317,266,CUST00266,Ishita,Golla,Female,anaya75@date.org,Delhi,Delhi,India,Premium,2025-03-19,2025-09-17,0
+318,267,CUST00267,Shanaya,Madan,Female,kandasuhana@gmail.com,Jaipur,Rajasthan,India,Retail,2023-07-06,9999-12-31,1
+319,268,CUST00268,Yashvi,Basak,Male,rsami@hotmail.com,Pune,Maharashtra,India,Corporate,2025-02-09,9999-12-31,1
+320,269,CUST00269,Yuvraj ,Dhingra,Male,tanya10@mane-desai.com,Chennai,Tamil Nadu,India,Corporate,2024-06-16,9999-12-31,1
+321,269,CUST00269,Yuvraj ,Dhingra,Male,tanya10@mane-desai.com,Pune,Maharashtra,India,Corporate,2023-11-07,2024-06-15,0
+322,270,CUST00270,Pari,Goda,Other,myradate@rastogi.com,Pune,Maharashtra,India,Retail,2024-10-18,9999-12-31,1
+323,270,CUST00270,Pari,Goda,Other,myradate@rastogi.com,Hyderabad,Telangana,India,Retail,2024-09-27,2024-10-17,0
+324,271,CUST00271,Manjari,Edwin,Other,bsingh@hotmail.com,Jaipur,Rajasthan,India,Retail,2024-04-03,9999-12-31,1
+325,272,CUST00272,Ishita,Varghese,Male,abrambabu@sunder-ganesh.info,Delhi,Delhi,India,Corporate,2025-12-21,9999-12-31,1
+326,272,CUST00272,Ishita,Varghese,Male,abrambabu@sunder-ganesh.info,Jaipur,Rajasthan,India,Retail,2023-04-01,2025-12-20,0
+327,273,CUST00273,Vaibhav,Tiwari,Male,lbadami@gmail.com,Hyderabad,Telangana,India,Premium,2023-09-08,9999-12-31,1
+328,274,CUST00274,Dishani,Kala,Male,lakshit64@gmail.com,Mumbai,Maharashtra,India,Corporate,2023-08-04,9999-12-31,1
+329,275,CUST00275,Riaan,Khurana,Other,zoya26@khare.org,Delhi,Delhi,India,Premium,2023-12-31,9999-12-31,1
+330,276,CUST00276,Kavya,Acharya,Female,romil67@hotmail.com,Chennai,Tamil Nadu,India,Corporate,2024-02-03,9999-12-31,1
+331,277,CUST00277,Mohanlal,Ratta,Other,obora@hotmail.com,Pune,Maharashtra,India,Retail,2025-08-16,9999-12-31,1
+332,278,CUST00278,Priyansh,Agate,Female,lchakraborty@sridhar-garde.com,Pune,Maharashtra,India,Corporate,2024-12-12,9999-12-31,1
+333,278,CUST00278,Priyansh,Agate,Female,lchakraborty@sridhar-garde.com,Thane,Maharashtra,India,Premium,2023-07-15,2024-12-11,0
+334,279,CUST00279,Tarini,Bose,Male,lavanyakrishnamurthy@sridhar-datta.com,Chennai,Tamil Nadu,India,Retail,2023-05-05,9999-12-31,1
+335,280,CUST00280,Fateh,Boase,Female,svarty@gmail.com,Bengaluru,Karnataka,India,Corporate,2025-04-08,9999-12-31,1
+336,281,CUST00281,Baiju,Anne,Male,lankakiara@mahajan-master.com,Bengaluru,Karnataka,India,Premium,2024-06-16,9999-12-31,1
+337,282,CUST00282,Anahita,Devan,Male,jainvihaan@gmail.com,Chennai,Tamil Nadu,India,Retail,2024-10-14,9999-12-31,1
+338,283,CUST00283,Onkar,Venkataraman,Other,heergarg@hotmail.com,Delhi,Delhi,India,Corporate,2023-09-02,9999-12-31,1
+339,284,CUST00284,Ishita,Wali,Other,ebhavsar@ramachandran-ben.com,Mumbai,Maharashtra,India,Premium,2025-06-11,9999-12-31,1
+340,285,CUST00285,Adah,Boase,Male,osarna@gmail.com,Ahmedabad,Gujarat,India,Retail,2023-05-29,9999-12-31,1
+341,286,CUST00286,Neelofar,Bandi,Other,badalmajumdar@hotmail.com,Hyderabad,Telangana,India,Premium,2025-12-20,9999-12-31,1
+342,286,CUST00286,Neelofar,Bandi,Other,badalmajumdar@hotmail.com,Delhi,Delhi,India,Retail,2024-04-08,2025-12-19,0
+343,287,CUST00287,Farhan,Krishnan,Male,jloke@yahoo.com,Jaipur,Rajasthan,India,Retail,2025-04-12,9999-12-31,1
+344,288,CUST00288,Alia,Vohra,Male,xkadakia@magar-chaudhuri.com,Bengaluru,Karnataka,India,Retail,2023-08-10,9999-12-31,1
+345,289,CUST00289,Pihu,Bahl,Female,azadkadakia@gmail.com,Mumbai,Maharashtra,India,Retail,2023-10-24,9999-12-31,1
+346,290,CUST00290,Indranil,Kapoor,Female,aaryahi32@raju.info,Delhi,Delhi,India,Corporate,2025-11-27,9999-12-31,1
+347,290,CUST00290,Indranil,Kapoor,Female,aaryahi32@raju.info,Hyderabad,Telangana,India,Corporate,2023-11-21,2025-11-26,0
+348,291,CUST00291,Yashvi,Sani,Male,issacromil@hotmail.com,Hyderabad,Telangana,India,Premium,2025-11-24,9999-12-31,1
+349,291,CUST00291,Yashvi,Sani,Male,issacromil@hotmail.com,Mumbai,Maharashtra,India,Retail,2023-08-28,2025-11-23,0
+350,292,CUST00292,Priyansh,Chaudhary,Male,lmallick@borra.org,Jaipur,Rajasthan,India,Retail,2025-04-04,9999-12-31,1
+351,293,CUST00293,Riya,Varma,Male,gillhimmat@randhawa-vora.info,Pune,Maharashtra,India,Retail,2023-08-22,9999-12-31,1
+352,294,CUST00294,Oorja,Wali,Female,nsaha@sarraf.com,Jaipur,Rajasthan,India,Corporate,2025-02-12,9999-12-31,1
+353,295,CUST00295,Tiya,Sehgal,Other,urvi58@sachdev-ratta.com,Chennai,Tamil Nadu,India,Retail,2023-04-05,9999-12-31,1
+354,296,CUST00296,Myra,Brahmbhatt,Other,iyengarmisha@issac.org,Pune,Maharashtra,India,Corporate,2024-08-09,9999-12-31,1
+355,297,CUST00297,Ehsaan,Deep,Female,shalvdar@mall-kadakia.info,Pune,Maharashtra,India,Premium,2024-06-08,9999-12-31,1
+356,298,CUST00298,Kimaya,Varughese,Other,taraishaan@gole.com,Thane,Maharashtra,India,Premium,2023-11-17,9999-12-31,1
+357,299,CUST00299,Onkar,Jhaveri,Male,pranay92@yahoo.com,Ahmedabad,Gujarat,India,Premium,2025-04-07,9999-12-31,1
+358,300,CUST00300,Prisha,Tiwari,Other,chandadiya@yahoo.com,Ahmedabad,Gujarat,India,Retail,2023-06-30,9999-12-31,1
+359,301,CUST00301,Aarna,Jain,Male,shanaya86@yahoo.com,Mumbai,Maharashtra,India,Premium,2025-01-10,9999-12-31,1
+360,302,CUST00302,Suhana,Seth,Other,shaeshani@sant.org,Delhi,Delhi,India,Premium,2025-02-27,9999-12-31,1
+361,302,CUST00302,Suhana,Seth,Other,shaeshani@sant.org,Chennai,Tamil Nadu,India,Retail,2025-07-17,2025-02-26,0
+362,303,CUST00303,Riya,Thakur,Other,desaiarmaan@hotmail.com,Bengaluru,Karnataka,India,Corporate,2025-11-08,9999-12-31,1
+363,304,CUST00304,Vihaan,Sura,Male,dgade@hotmail.com,Jaipur,Rajasthan,India,Retail,2025-09-18,9999-12-31,1
+364,305,CUST00305,Azad,Dara,Female,balaadira@gmail.com,Chennai,Tamil Nadu,India,Premium,2024-07-30,9999-12-31,1
+365,306,CUST00306,Keya,Krishnamurthy,Female,nakulchokshi@gmail.com,Hyderabad,Telangana,India,Retail,2025-12-05,9999-12-31,1
+366,306,CUST00306,Keya,Krishnamurthy,Female,nakulchokshi@gmail.com,Chennai,Tamil Nadu,India,Retail,2023-04-02,2025-12-04,0
+367,307,CUST00307,Onkar,Kaur,Female,piya59@yahoo.com,Chennai,Tamil Nadu,India,Premium,2025-03-07,9999-12-31,1
+368,308,CUST00308,Nirvaan,Kara,Female,borareyansh@mand.biz,Chennai,Tamil Nadu,India,Corporate,2024-12-25,9999-12-31,1
+369,309,CUST00309,Badal,Swaminathan,Other,singhalmohanlal@chand-sridhar.com,Mumbai,Maharashtra,India,Retail,2025-08-16,9999-12-31,1
+370,309,CUST00309,Badal,Swaminathan,Other,singhalmohanlal@chand-sridhar.com,Bengaluru,Karnataka,India,Retail,2025-10-20,2025-08-15,0
+371,310,CUST00310,Anay,Mangal,Female,shettyyakshit@dada.org,Mumbai,Maharashtra,India,Corporate,2025-12-27,9999-12-31,1
+372,311,CUST00311,Dhruv,Chaudhari,Male,anahi79@gmail.com,Ahmedabad,Gujarat,India,Retail,2023-07-01,9999-12-31,1
+373,312,CUST00312,Aradhya,Sandhu,Other,routindranil@gmail.com,Jaipur,Rajasthan,India,Retail,2024-10-09,9999-12-31,1
+374,312,CUST00312,Aradhya,Sandhu,Other,routindranil@gmail.com,Jaipur,Rajasthan,India,Retail,2025-10-20,2024-10-08,0
+375,313,CUST00313,Jivin,Karan,Other,esen@mangal.com,Ahmedabad,Gujarat,India,Premium,2023-02-04,9999-12-31,1
+376,314,CUST00314,Riya,Badal,Female,hridaan05@hegde.org,Pune,Maharashtra,India,Retail,2025-12-03,9999-12-31,1
+377,315,CUST00315,Anvi,Bhakta,Other,krishyuvaan@hotmail.com,Jaipur,Rajasthan,India,Premium,2023-10-21,9999-12-31,1
+378,316,CUST00316,Madhav,Taneja,Male,sandhuahana@mand-ratti.com,Pune,Maharashtra,India,Retail,2024-07-20,9999-12-31,1
+379,317,CUST00317,Samiha,Samra,Female,yuvraj-18@hotmail.com,Ahmedabad,Gujarat,India,Premium,2024-07-13,9999-12-31,1
+380,318,CUST00318,Aaina,Sathe,Other,alia10@hotmail.com,Bengaluru,Karnataka,India,Premium,2023-08-20,9999-12-31,1
+381,319,CUST00319,Hansh,Koshy,Female,advik78@gmail.com,Ahmedabad,Gujarat,India,Retail,2023-11-21,9999-12-31,1
+382,320,CUST00320,Kashvi,Goda,Female,zshenoy@yahoo.com,Bengaluru,Karnataka,India,Corporate,2024-08-16,9999-12-31,1
+383,321,CUST00321,Jhanvi,Krish,Other,rjain@gmail.com,Chennai,Tamil Nadu,India,Premium,2025-06-18,9999-12-31,1
+384,322,CUST00322,Aradhya,Mand,Other,ksodhi@gmail.com,Thane,Maharashtra,India,Retail,2025-12-25,9999-12-31,1
+385,323,CUST00323,Gokul,Chander,Male,ojasshere@devi.info,Bengaluru,Karnataka,India,Corporate,2023-12-11,9999-12-31,1
+386,324,CUST00324,Kaira,Sodhi,Other,stuvan02@sarma.info,Chennai,Tamil Nadu,India,Retail,2025-11-10,9999-12-31,1
+387,325,CUST00325,Samar,Garg,Male,keyagarg@bawa.biz,Pune,Maharashtra,India,Corporate,2025-08-11,9999-12-31,1
+388,326,CUST00326,Stuvan,Bhatnagar,Female,mahajannishith@yahoo.com,Thane,Maharashtra,India,Corporate,2023-12-19,9999-12-31,1
+389,327,CUST00327,Trisha,Krishnamurthy,Other,ngrover@tank-bhat.net,Thane,Maharashtra,India,Retail,2025-01-30,9999-12-31,1
+390,328,CUST00328,Rasha,Apte,Male,ishita56@gmail.com,Delhi,Delhi,India,Retail,2023-11-03,9999-12-31,1
+391,329,CUST00329,Badal,Zachariah,Female,fchanda@yahoo.com,Pune,Maharashtra,India,Premium,2024-11-19,9999-12-31,1
+392,330,CUST00330,Kismat,Ganesh,Female,mthakur@yahoo.com,Bengaluru,Karnataka,India,Corporate,2025-08-19,9999-12-31,1
+393,331,CUST00331,Siya,Tank,Female,nyohannan@choudhry.biz,Hyderabad,Telangana,India,Retail,2024-10-30,9999-12-31,1
+394,332,CUST00332,Suhana,Sen,Male,zeeshan84@ramesh.com,Hyderabad,Telangana,India,Retail,2024-10-06,9999-12-31,1
+395,333,CUST00333,Drishya,Vig,Other,ojaskalla@yahoo.com,Hyderabad,Telangana,India,Premium,2025-04-21,9999-12-31,1
+396,334,CUST00334,Aarush,Joshi,Other,mbath@kara.com,Jaipur,Rajasthan,India,Retail,2025-11-16,9999-12-31,1
+397,334,CUST00334,Aarush,Joshi,Other,mbath@kara.com,Hyderabad,Telangana,India,Retail,2024-08-05,2025-11-15,0
+398,335,CUST00335,Stuvan,Kannan,Male,ganeshyasmin@deol-kulkarni.biz,Hyderabad,Telangana,India,Retail,2023-08-28,9999-12-31,1
+399,336,CUST00336,Samarth,Rajagopal,Male,vivaansarna@gmail.com,Thane,Maharashtra,India,Premium,2025-02-02,9999-12-31,1
+400,337,CUST00337,Shalv,Ravi,Other,madhavchahal@mandal-sagar.com,Mumbai,Maharashtra,India,Corporate,2024-02-10,9999-12-31,1
+401,338,CUST00338,Reyansh,Mammen,Male,dhruvlala@hotmail.com,Delhi,Delhi,India,Retail,2025-03-20,9999-12-31,1
+402,338,CUST00338,Reyansh,Mammen,Male,dhruvlala@hotmail.com,Delhi,Delhi,India,Premium,2025-05-12,2025-03-19,0
+403,339,CUST00339,Aniruddh,Sankaran,Male,bhatdevansh@sur.com,Chennai,Tamil Nadu,India,Premium,2023-05-13,9999-12-31,1
+404,340,CUST00340,Hazel,Chad,Other,onkar57@chana.com,Delhi,Delhi,India,Corporate,2024-07-21,9999-12-31,1
+405,340,CUST00340,Hazel,Chad,Other,onkar57@chana.com,Thane,Maharashtra,India,Premium,2024-05-21,2024-07-20,0
+406,341,CUST00341,Aarush,Dhingra,Other,boramisha@gmail.com,Hyderabad,Telangana,India,Retail,2023-03-21,9999-12-31,1
+407,342,CUST00342,Farhan,Gera,Other,raogatik@hotmail.com,Thane,Maharashtra,India,Retail,2025-10-29,9999-12-31,1
+408,343,CUST00343,Anahita,Majumdar,Female,divijdeshpande@dada.com,Delhi,Delhi,India,Retail,2024-05-26,9999-12-31,1
+409,344,CUST00344,Saksham,Sahota,Female,saanvivirk@hotmail.com,Bengaluru,Karnataka,India,Corporate,2024-03-17,9999-12-31,1
+410,345,CUST00345,Divyansh,Bakshi,Female,chandraadah@yahoo.com,Ahmedabad,Gujarat,India,Corporate,2024-10-15,9999-12-31,1
+411,346,CUST00346,Samar,Kala,Female,yasminchopra@hotmail.com,Hyderabad,Telangana,India,Premium,2023-10-17,9999-12-31,1
+412,347,CUST00347,Veer,Brahmbhatt,Other,siyakale@yahoo.com,Jaipur,Rajasthan,India,Premium,2023-01-24,9999-12-31,1
+413,348,CUST00348,Hunar,Behl,Female,yasmin65@yahoo.com,Jaipur,Rajasthan,India,Premium,2023-04-03,9999-12-31,1
+414,349,CUST00349,Ehsaan,Varkey,Female,gatikganesh@agrawal.info,Delhi,Delhi,India,Retail,2025-06-14,9999-12-31,1
+415,350,CUST00350,Vidur,Sura,Other,jivin00@anand.org,Delhi,Delhi,India,Premium,2025-06-09,9999-12-31,1
+416,351,CUST00351,Manikya,Sahota,Female,fdyal@lata.com,Hyderabad,Telangana,India,Premium,2025-10-20,9999-12-31,1
+417,351,CUST00351,Manikya,Sahota,Female,fdyal@lata.com,Delhi,Delhi,India,Retail,2023-03-01,2025-10-19,0
+418,352,CUST00352,Zara,Konda,Female,manjari73@lal.com,Chennai,Tamil Nadu,India,Corporate,2024-08-10,9999-12-31,1
+419,353,CUST00353,Dharmajan,Dixit,Female,msolanki@yahoo.com,Jaipur,Rajasthan,India,Corporate,2023-09-05,9999-12-31,1
+420,354,CUST00354,Purab,Borde,Male,guhasamar@anne.com,Thane,Maharashtra,India,Premium,2025-08-12,9999-12-31,1
+421,355,CUST00355,Raghav,Chauhan,Female,cshroff@sinha-chahal.com,Mumbai,Maharashtra,India,Premium,2025-10-04,9999-12-31,1
+422,356,CUST00356,Heer,Butala,Female,sanetaran@gmail.com,Bengaluru,Karnataka,India,Corporate,2025-11-29,9999-12-31,1
+423,357,CUST00357,Hridaan,Kaul,Other,lalladishani@kohli.biz,Jaipur,Rajasthan,India,Corporate,2023-01-23,9999-12-31,1
+424,358,CUST00358,Zain,Kaur,Male,tejas97@hotmail.com,Jaipur,Rajasthan,India,Corporate,2025-06-01,9999-12-31,1
+425,359,CUST00359,Anay,Chawla,Other,wdhar@dhaliwal.com,Hyderabad,Telangana,India,Corporate,2023-04-04,9999-12-31,1
+426,360,CUST00360,Kimaya,De,Male,evaraval@yahoo.com,Bengaluru,Karnataka,India,Corporate,2023-08-03,9999-12-31,1
+427,361,CUST00361,Dhanuk,Tank,Male,lavanyacomar@barad.com,Delhi,Delhi,India,Corporate,2025-05-25,9999-12-31,1
+428,361,CUST00361,Dhanuk,Tank,Male,lavanyacomar@barad.com,Ahmedabad,Gujarat,India,Premium,2024-07-18,2025-05-24,0
+429,362,CUST00362,Mehul,Kapadia,Male,dhanukkhurana@devi-sem.com,Jaipur,Rajasthan,India,Corporate,2023-08-20,9999-12-31,1
+430,363,CUST00363,Reyansh,Mannan,Male,trivedishamik@shukla.info,Chennai,Tamil Nadu,India,Retail,2025-03-29,9999-12-31,1
+431,364,CUST00364,Yuvaan,Sane,Female,koshydamini@hotmail.com,Mumbai,Maharashtra,India,Corporate,2024-01-15,9999-12-31,1
+432,365,CUST00365,Pari,Contractor,Other,mehuldoshi@hotmail.com,Delhi,Delhi,India,Premium,2023-02-15,9999-12-31,1
+433,366,CUST00366,Ojas,Bava,Male,dharprerak@hotmail.com,Ahmedabad,Gujarat,India,Premium,2025-06-28,9999-12-31,1
+434,367,CUST00367,Divit,Bal,Female,rasha90@dash-sachar.com,Jaipur,Rajasthan,India,Corporate,2025-10-07,9999-12-31,1
+435,368,CUST00368,Ryan,Ramaswamy,Other,hayretaran@hotmail.com,Chennai,Tamil Nadu,India,Premium,2023-09-03,9999-12-31,1
+436,369,CUST00369,Ayesha,Varghese,Female,oagrawal@krishnan.biz,Delhi,Delhi,India,Premium,2024-10-10,9999-12-31,1
+437,370,CUST00370,Keya,Chahal,Other,xray@yahoo.com,Delhi,Delhi,India,Corporate,2025-01-06,9999-12-31,1
+438,371,CUST00371,Vihaan,Dyal,Other,riya40@hotmail.com,Chennai,Tamil Nadu,India,Corporate,2025-09-27,9999-12-31,1
+439,372,CUST00372,Vidur,Mahajan,Male,umanghalder@ahuja.com,Jaipur,Rajasthan,India,Premium,2024-11-25,9999-12-31,1
+440,373,CUST00373,Rania,Rege,Female,bajajbiju@tara.com,Hyderabad,Telangana,India,Retail,2024-09-14,9999-12-31,1
+441,374,CUST00374,Myra,Lanka,Female,bandirhea@handa.net,Hyderabad,Telangana,India,Corporate,2025-12-02,9999-12-31,1
+442,375,CUST00375,Manjari,Raju,Male,asur@chakrabarti-suri.com,Bengaluru,Karnataka,India,Corporate,2024-10-20,9999-12-31,1
+443,375,CUST00375,Manjari,Raju,Male,asur@chakrabarti-suri.com,Pune,Maharashtra,India,Retail,2023-10-12,2024-10-19,0
+444,376,CUST00376,Kaira,Viswanathan,Female,lakshay00@yahoo.com,Bengaluru,Karnataka,India,Retail,2024-10-31,9999-12-31,1
+445,377,CUST00377,Mehul,Samra,Female,vanya20@hotmail.com,Mumbai,Maharashtra,India,Corporate,2025-08-31,9999-12-31,1
+446,378,CUST00378,Shayak,Chander,Female,sahajhanvi@gmail.com,Delhi,Delhi,India,Corporate,2025-06-30,9999-12-31,1
+447,378,CUST00378,Shayak,Chander,Female,sahajhanvi@gmail.com,Thane,Maharashtra,India,Corporate,2024-09-10,2025-06-29,0
+448,379,CUST00379,Aarav,Tak,Male,advikverma@chatterjee-balay.org,Pune,Maharashtra,India,Retail,2024-03-13,9999-12-31,1
+449,380,CUST00380,Hrishita,Chadha,Male,manjari07@barman-ben.biz,Ahmedabad,Gujarat,India,Corporate,2024-07-28,9999-12-31,1
+450,381,CUST00381,Ritvik,Saini,Female,nitya52@gmail.com,Delhi,Delhi,India,Corporate,2023-09-02,9999-12-31,1
+451,382,CUST00382,Yuvaan,Kamdar,Female,nirvi26@gmail.com,Jaipur,Rajasthan,India,Premium,2025-07-16,9999-12-31,1
+452,383,CUST00383,Nayantara,Sundaram,Female,manjarisaxena@gmail.com,Hyderabad,Telangana,India,Premium,2025-09-16,9999-12-31,1
+453,384,CUST00384,Vardaniya,Kata,Female,shamik49@hotmail.com,Bengaluru,Karnataka,India,Premium,2025-10-13,9999-12-31,1
+454,384,CUST00384,Vardaniya,Kata,Female,shamik49@hotmail.com,Jaipur,Rajasthan,India,Retail,2023-07-06,2025-10-12,0
+455,385,CUST00385,Armaan,Kashyap,Female,shayak40@sachdeva-sandal.com,Bengaluru,Karnataka,India,Premium,2023-12-22,9999-12-31,1
+456,386,CUST00386,Elakshi,Keer,Male,ksingh@sathe.biz,Mumbai,Maharashtra,India,Corporate,2024-08-28,9999-12-31,1
+457,387,CUST00387,Vidur,Gulati,Male,othakkar@setty.com,Hyderabad,Telangana,India,Premium,2023-12-21,9999-12-31,1
+458,388,CUST00388,Navya,Shroff,Male,kohliranbir@karan.com,Bengaluru,Karnataka,India,Retail,2023-09-08,9999-12-31,1
+459,389,CUST00389,Anaya,Srivastava,Other,vgandhi@hotmail.com,Thane,Maharashtra,India,Retail,2025-11-14,9999-12-31,1
+460,390,CUST00390,Jiya,Rajagopal,Female,bahrimehul@kapadia-dara.com,Delhi,Delhi,India,Retail,2025-08-29,9999-12-31,1
+461,391,CUST00391,Aaryahi,Srinivasan,Male,tsha@yahoo.com,Delhi,Delhi,India,Corporate,2025-02-21,9999-12-31,1
+462,392,CUST00392,Hrishita,Ahluwalia,Male,karantrisha@anne.com,Pune,Maharashtra,India,Corporate,2025-01-14,9999-12-31,1
+463,393,CUST00393,Advik,Rao,Male,rsastry@aggarwal.info,Pune,Maharashtra,India,Retail,2025-03-20,9999-12-31,1
+464,394,CUST00394,Faiyaz,Chandra,Other,anya64@hotmail.com,Chennai,Tamil Nadu,India,Premium,2024-01-04,9999-12-31,1
+465,395,CUST00395,Mannat,Bava,Female,kguha@yahoo.com,Delhi,Delhi,India,Retail,2024-10-28,9999-12-31,1
+466,395,CUST00395,Mannat,Bava,Female,kguha@yahoo.com,Delhi,Delhi,India,Premium,2023-05-02,2024-10-27,0
+467,396,CUST00396,Zeeshan,Warrior,Male,jayant45@gmail.com,Delhi,Delhi,India,Premium,2024-09-16,9999-12-31,1
+468,397,CUST00397,Dhanuk,Badami,Male,zseth@yahoo.com,Jaipur,Rajasthan,India,Corporate,2025-04-16,9999-12-31,1
+469,397,CUST00397,Dhanuk,Badami,Male,zseth@yahoo.com,Thane,Maharashtra,India,Premium,2024-03-31,2025-04-15,0
+470,398,CUST00398,Lakshit,Chawla,Male,tsoni@saini-khurana.info,Delhi,Delhi,India,Corporate,2024-11-03,9999-12-31,1
+471,399,CUST00399,Aaina,Char,Other,kimaya43@dara.net,Hyderabad,Telangana,India,Retail,2024-10-31,9999-12-31,1
+472,399,CUST00399,Aaina,Char,Other,kimaya43@dara.net,Pune,Maharashtra,India,Corporate,2025-12-04,2024-10-30,0
+473,400,CUST00400,Nakul,Kalita,Male,yashvi57@yahoo.com,Delhi,Delhi,India,Corporate,2024-06-08,9999-12-31,1
+474,401,CUST00401,Taran,Sheth,Other,kalaindranil@gmail.com,Pune,Maharashtra,India,Premium,2024-03-26,9999-12-31,1
+475,402,CUST00402,Kartik,Sastry,Male,samarramanathan@hotmail.com,Delhi,Delhi,India,Corporate,2025-06-14,9999-12-31,1
+476,402,CUST00402,Kartik,Sastry,Male,samarramanathan@hotmail.com,Ahmedabad,Gujarat,India,Retail,2023-01-07,2025-06-13,0
+477,403,CUST00403,Rohan,Dalal,Male,thamanindrajit@wali.com,Delhi,Delhi,India,Premium,2024-09-29,9999-12-31,1
+478,404,CUST00404,Aradhya,Khalsa,Male,uchaudhuri@hotmail.com,Hyderabad,Telangana,India,Corporate,2024-09-23,9999-12-31,1
+479,405,CUST00405,Madhup,Devan,Other,sehgalshanaya@chand.com,Delhi,Delhi,India,Retail,2025-01-08,9999-12-31,1
+480,406,CUST00406,Jiya,Sahni,Male,aarnaseshadri@hotmail.com,Pune,Maharashtra,India,Corporate,2023-06-27,9999-12-31,1
+481,407,CUST00407,Dharmajan,Ramaswamy,Male,vritika12@zacharia.net,Chennai,Tamil Nadu,India,Corporate,2023-07-06,9999-12-31,1
+482,408,CUST00408,Abram,Sankar,Male,uthkarsh47@yahoo.com,Bengaluru,Karnataka,India,Premium,2023-01-23,9999-12-31,1
+483,409,CUST00409,Kismat,Deep,Female,anvi05@choudhury.info,Chennai,Tamil Nadu,India,Premium,2025-11-11,9999-12-31,1
+484,410,CUST00410,Ivan,Banerjee,Other,ktripathi@bedi.biz,Chennai,Tamil Nadu,India,Retail,2023-04-18,9999-12-31,1
+485,411,CUST00411,Aarav,Wadhwa,Female,chaudrydiya@gour-walia.info,Jaipur,Rajasthan,India,Retail,2025-12-23,9999-12-31,1
+486,411,CUST00411,Aarav,Wadhwa,Female,chaudrydiya@gour-walia.info,Bengaluru,Karnataka,India,Premium,2024-03-21,2025-12-22,0
+487,412,CUST00412,Neysa,Rattan,Female,aarav83@hotmail.com,Ahmedabad,Gujarat,India,Retail,2024-10-29,9999-12-31,1
+488,413,CUST00413,Badal,Seth,Other,sonimannat@sampath.info,Ahmedabad,Gujarat,India,Retail,2024-01-29,9999-12-31,1
+489,414,CUST00414,Miraan,Deshmukh,Female,pbabu@malhotra.com,Jaipur,Rajasthan,India,Premium,2025-02-25,9999-12-31,1
+490,415,CUST00415,Hiran,Dixit,Female,kulkarnizaina@yahoo.com,Chennai,Tamil Nadu,India,Retail,2024-07-14,9999-12-31,1
+491,416,CUST00416,Ahana ,Anand,Other,mishti80@johal.com,Bengaluru,Karnataka,India,Retail,2025-05-12,9999-12-31,1
+492,417,CUST00417,Neelofar,Dugar,Other,rajagopalanriya@bera.com,Thane,Maharashtra,India,Corporate,2025-07-21,9999-12-31,1
+493,417,CUST00417,Neelofar,Dugar,Other,rajagopalanriya@bera.com,Pune,Maharashtra,India,Premium,2023-04-04,2025-07-20,0
+494,418,CUST00418,Dhruv,Bhardwaj,Male,samaira91@dalia-gala.com,Pune,Maharashtra,India,Premium,2023-12-11,9999-12-31,1
+495,419,CUST00419,Ivan,Varma,Female,caurora@gmail.com,Thane,Maharashtra,India,Premium,2025-03-22,9999-12-31,1
+496,420,CUST00420,Amira,Kala,Male,dhillonzoya@yahoo.com,Delhi,Delhi,India,Premium,2023-11-12,9999-12-31,1
+497,421,CUST00421,Purab,Khare,Other,amanne@bansal-tripathi.com,Thane,Maharashtra,India,Premium,2025-12-10,9999-12-31,1
+498,422,CUST00422,Uthkarsh,Khalsa,Male,hkaur@gmail.com,Bengaluru,Karnataka,India,Corporate,2025-11-29,9999-12-31,1
+499,423,CUST00423,Vardaniya,Bajwa,Male,qkibe@hotmail.com,Mumbai,Maharashtra,India,Corporate,2025-09-03,9999-12-31,1
+500,423,CUST00423,Vardaniya,Bajwa,Male,qkibe@hotmail.com,Thane,Maharashtra,India,Premium,2025-07-04,2025-09-02,0
+501,424,CUST00424,Zain,Bath,Male,zsankaran@hotmail.com,Mumbai,Maharashtra,India,Premium,2025-03-07,9999-12-31,1
+502,425,CUST00425,Kiara,Mand,Female,rajusuhana@hotmail.com,Ahmedabad,Gujarat,India,Premium,2025-02-27,9999-12-31,1
+503,426,CUST00426,Vihaan,Sibal,Female,zdeep@boase.com,Jaipur,Rajasthan,India,Corporate,2024-05-07,9999-12-31,1
+504,427,CUST00427,Bhavin,Sura,Other,aniruddh23@venkataraman.com,Thane,Maharashtra,India,Premium,2025-08-12,9999-12-31,1
+505,428,CUST00428,Alisha,Bhavsar,Male,shalv17@koshy-gour.info,Bengaluru,Karnataka,India,Premium,2024-08-15,9999-12-31,1
+506,429,CUST00429,Aarush,Samra,Male,cgour@subramaniam.com,Chennai,Tamil Nadu,India,Premium,2025-02-14,9999-12-31,1
+507,430,CUST00430,Nakul,Seshadri,Female,bansalvihaan@yahoo.com,Bengaluru,Karnataka,India,Corporate,2025-06-17,9999-12-31,1
+508,431,CUST00431,Ayesha,Soman,Female,indranil93@hotmail.com,Thane,Maharashtra,India,Premium,2024-11-05,9999-12-31,1
+509,432,CUST00432,Aaina,Basu,Female,yogishayak@hotmail.com,Bengaluru,Karnataka,India,Corporate,2024-01-20,9999-12-31,1
+510,433,CUST00433,Vivaan,Lata,Male,rajagopalanayesha@hotmail.com,Chennai,Tamil Nadu,India,Premium,2025-03-08,9999-12-31,1
+511,434,CUST00434,Ishita,Bahri,Other,kimaya03@ghosh.com,Thane,Maharashtra,India,Retail,2023-07-08,9999-12-31,1
+512,435,CUST00435,Miraya,Barad,Female,kavyamangal@chaudhari.net,Ahmedabad,Gujarat,India,Premium,2024-09-23,9999-12-31,1
+513,435,CUST00435,Miraya,Barad,Female,kavyamangal@chaudhari.net,Hyderabad,Telangana,India,Retail,2024-01-12,2024-09-22,0
+514,436,CUST00436,Anaya,Reddy,Other,chadamadhav@yahoo.com,Pune,Maharashtra,India,Corporate,2023-07-31,9999-12-31,1
+515,437,CUST00437,Suhana,Chad,Female,taksamiha@yahoo.com,Ahmedabad,Gujarat,India,Corporate,2025-10-25,9999-12-31,1
+516,438,CUST00438,Neelofar,Sama,Male,zjani@yahoo.com,Bengaluru,Karnataka,India,Premium,2023-06-22,9999-12-31,1
+517,439,CUST00439,Yuvraj ,Bail,Female,gshankar@hotmail.com,Delhi,Delhi,India,Corporate,2023-07-03,9999-12-31,1
+518,440,CUST00440,Azad,Bhatia,Female,balakrishnanvivaan@gmail.com,Delhi,Delhi,India,Retail,2024-10-22,9999-12-31,1
+519,441,CUST00441,Miraya,Shroff,Male,bansalnirvaan@bains-bal.com,Ahmedabad,Gujarat,India,Retail,2023-09-21,9999-12-31,1
+520,442,CUST00442,Kabir,Ahluwalia,Male,toorneelofar@hotmail.com,Pune,Maharashtra,India,Premium,2023-05-02,9999-12-31,1
+521,443,CUST00443,Samaira,Dani,Female,aaryahibora@taneja-ram.com,Pune,Maharashtra,India,Retail,2025-06-25,9999-12-31,1
+522,444,CUST00444,Arhaan,Dar,Other,vroy@dubey.com,Chennai,Tamil Nadu,India,Premium,2025-10-09,9999-12-31,1
+523,444,CUST00444,Arhaan,Dar,Other,vroy@dubey.com,Chennai,Tamil Nadu,India,Retail,2025-03-14,2025-10-08,0
+524,445,CUST00445,Eshani,Keer,Other,balasamarth@hotmail.com,Chennai,Tamil Nadu,India,Retail,2024-07-11,9999-12-31,1
+525,446,CUST00446,Tushar,Bera,Other,subramaniamdrishya@gmail.com,Hyderabad,Telangana,India,Retail,2023-03-05,9999-12-31,1
+526,447,CUST00447,Heer,Kamdar,Other,zara64@gmail.com,Ahmedabad,Gujarat,India,Premium,2025-08-16,9999-12-31,1
+527,448,CUST00448,Hiran,Karan,Other,biswasalisha@hotmail.com,Pune,Maharashtra,India,Corporate,2024-09-14,9999-12-31,1
+528,449,CUST00449,Vihaan,Shetty,Male,biju27@badami.info,Mumbai,Maharashtra,India,Corporate,2024-06-03,9999-12-31,1
+529,450,CUST00450,Nishith,Chahal,Other,onkarram@sibal.com,Jaipur,Rajasthan,India,Retail,2023-03-03,9999-12-31,1
+530,451,CUST00451,Shayak,Uppal,Female,advika42@ram-rastogi.net,Delhi,Delhi,India,Retail,2025-01-04,9999-12-31,1
+531,452,CUST00452,Anay,Kar,Male,oben@yahoo.com,Ahmedabad,Gujarat,India,Retail,2024-05-31,9999-12-31,1
+532,453,CUST00453,Urvi,Bajwa,Female,mdar@yahoo.com,Thane,Maharashtra,India,Premium,2025-05-17,9999-12-31,1
+533,454,CUST00454,Vardaniya,Vig,Male,zeeshan84@yahoo.com,Jaipur,Rajasthan,India,Premium,2025-03-24,9999-12-31,1
+534,454,CUST00454,Vardaniya,Vig,Male,zeeshan84@yahoo.com,Mumbai,Maharashtra,India,Retail,2025-05-16,2025-03-23,0
+535,455,CUST00455,Ela,Rama,Male,cbarman@dube-sarraf.com,Jaipur,Rajasthan,India,Corporate,2025-07-09,9999-12-31,1
+536,456,CUST00456,Ayesha,Saha,Other,gokul46@hayer.org,Delhi,Delhi,India,Corporate,2023-04-01,9999-12-31,1
+537,457,CUST00457,Ishaan,Saxena,Other,evarma@yahoo.com,Thane,Maharashtra,India,Retail,2025-03-24,9999-12-31,1
+538,458,CUST00458,Rohan,Sridhar,Male,jhanvi89@char.org,Pune,Maharashtra,India,Retail,2024-08-11,9999-12-31,1
+539,459,CUST00459,Hridaan,Walia,Other,kaurzara@chaudhuri.com,Mumbai,Maharashtra,India,Corporate,2025-07-14,9999-12-31,1
+540,460,CUST00460,Shayak,Kar,Other,omane@gmail.com,Delhi,Delhi,India,Retail,2024-06-23,9999-12-31,1
+541,461,CUST00461,Ishita,Shah,Male,diya15@gmail.com,Hyderabad,Telangana,India,Retail,2024-10-22,9999-12-31,1
+542,462,CUST00462,Drishya,Konda,Female,sarade@yahoo.com,Delhi,Delhi,India,Retail,2023-02-21,9999-12-31,1
+543,463,CUST00463,Yuvraj ,Issac,Male,onkarvasa@yahoo.com,Thane,Maharashtra,India,Premium,2025-06-16,9999-12-31,1
+544,464,CUST00464,Sana,Bera,Male,raniadate@dixit.com,Bengaluru,Karnataka,India,Retail,2023-07-02,9999-12-31,1
+545,465,CUST00465,Tiya,Sethi,Other,datesamiha@borra.com,Jaipur,Rajasthan,India,Premium,2024-01-30,9999-12-31,1
+546,466,CUST00466,Ayesha,Shukla,Male,eganesh@bawa.net,Thane,Maharashtra,India,Retail,2025-06-10,9999-12-31,1
+547,467,CUST00467,Parinaaz,Choudhary,Female,parinaazramanathan@yahoo.com,Thane,Maharashtra,India,Retail,2023-04-25,9999-12-31,1
+548,468,CUST00468,Oorja,Dhar,Male,aainasaran@hotmail.com,Jaipur,Rajasthan,India,Retail,2024-12-04,9999-12-31,1
+549,468,CUST00468,Oorja,Dhar,Male,aainasaran@hotmail.com,Mumbai,Maharashtra,India,Premium,2025-07-11,2024-12-03,0
+550,469,CUST00469,Parinaaz,Char,Female,dharmajankala@bhandari.biz,Ahmedabad,Gujarat,India,Corporate,2025-01-31,9999-12-31,1
+551,470,CUST00470,Siya,Randhawa,Other,dishani95@kale.com,Jaipur,Rajasthan,India,Retail,2024-07-16,9999-12-31,1
+552,470,CUST00470,Siya,Randhawa,Other,dishani95@kale.com,Thane,Maharashtra,India,Retail,2023-06-18,2024-07-15,0
+553,471,CUST00471,Dharmajan,Sanghvi,Other,ivan94@hotmail.com,Pune,Maharashtra,India,Retail,2025-03-02,9999-12-31,1
+554,471,CUST00471,Dharmajan,Sanghvi,Other,ivan94@hotmail.com,Delhi,Delhi,India,Premium,2023-03-06,2025-03-01,0
+555,472,CUST00472,Shanaya,Tara,Female,jbose@yahoo.com,Thane,Maharashtra,India,Premium,2023-09-16,9999-12-31,1
+556,473,CUST00473,Anya,Bahl,Male,romil09@hotmail.com,Jaipur,Rajasthan,India,Retail,2025-09-28,9999-12-31,1
+557,474,CUST00474,Bhavin,Mani,Male,omammen@hotmail.com,Delhi,Delhi,India,Premium,2024-09-06,9999-12-31,1
+558,474,CUST00474,Bhavin,Mani,Male,omammen@hotmail.com,Jaipur,Rajasthan,India,Premium,2024-05-23,2024-09-05,0
+559,475,CUST00475,Adah,Acharya,Female,samar62@yahoo.com,Bengaluru,Karnataka,India,Retail,2024-11-13,9999-12-31,1
+560,475,CUST00475,Adah,Acharya,Female,samar62@yahoo.com,Thane,Maharashtra,India,Retail,2024-01-22,2024-11-12,0
+561,476,CUST00476,Samiha,Goel,Female,ehsaan08@gmail.com,Mumbai,Maharashtra,India,Retail,2025-04-30,9999-12-31,1
+562,476,CUST00476,Samiha,Goel,Female,ehsaan08@gmail.com,Mumbai,Maharashtra,India,Corporate,2025-02-15,2025-04-29,0
+563,477,CUST00477,Piya,Sachdeva,Male,dharmajanchadha@gmail.com,Bengaluru,Karnataka,India,Premium,2023-11-08,9999-12-31,1
+564,478,CUST00478,Khushi,Hegde,Male,talwaraniruddh@gmail.com,Mumbai,Maharashtra,India,Premium,2025-10-07,9999-12-31,1
+565,479,CUST00479,Zaina,Bahl,Male,lagan19@hotmail.com,Ahmedabad,Gujarat,India,Premium,2025-05-04,9999-12-31,1
+566,480,CUST00480,Khushi,Krishna,Male,tejas31@gmail.com,Pune,Maharashtra,India,Retail,2024-05-27,9999-12-31,1
+567,481,CUST00481,Charvi,Kant,Female,umangram@chahal.com,Jaipur,Rajasthan,India,Corporate,2023-07-24,9999-12-31,1
+568,482,CUST00482,Indrans,Sarin,Male,suriaradhya@hotmail.com,Chennai,Tamil Nadu,India,Retail,2023-12-21,9999-12-31,1
+569,483,CUST00483,Mishti,Shan,Male,rajagopaladvik@yahoo.com,Delhi,Delhi,India,Corporate,2025-06-20,9999-12-31,1
+570,483,CUST00483,Mishti,Shan,Male,rajagopaladvik@yahoo.com,Thane,Maharashtra,India,Retail,2025-11-03,2025-06-19,0
+571,484,CUST00484,Seher,Gera,Male,akalita@gmail.com,Pune,Maharashtra,India,Retail,2024-11-03,9999-12-31,1
+572,485,CUST00485,Shalv,Sarna,Female,chawlaindranil@lall.info,Hyderabad,Telangana,India,Retail,2024-01-15,9999-12-31,1
+573,486,CUST00486,Riaan,Samra,Male,dwable@keer-khalsa.org,Hyderabad,Telangana,India,Premium,2024-05-20,9999-12-31,1
+574,487,CUST00487,Kavya,Kumar,Male,ldada@yahoo.com,Ahmedabad,Gujarat,India,Corporate,2023-11-10,9999-12-31,1
+575,488,CUST00488,Dhruv,Chawla,Other,bkar@hotmail.com,Bengaluru,Karnataka,India,Corporate,2024-11-11,9999-12-31,1
+576,489,CUST00489,Ayesha,Chhabra,Other,hunarjoshi@wable-sathe.biz,Chennai,Tamil Nadu,India,Premium,2023-09-07,9999-12-31,1
+577,490,CUST00490,Charvi,Chakrabarti,Male,stuvankalla@sankaran-thaker.com,Delhi,Delhi,India,Corporate,2024-09-24,9999-12-31,1
+578,490,CUST00490,Charvi,Chakrabarti,Male,stuvankalla@sankaran-thaker.com,Thane,Maharashtra,India,Corporate,2025-01-10,2024-09-23,0
+579,491,CUST00491,Ela,Shah,Other,mishabhasin@gola.com,Ahmedabad,Gujarat,India,Premium,2023-10-14,9999-12-31,1
+580,492,CUST00492,Kiaan,Chanda,Female,taran25@gmail.com,Thane,Maharashtra,India,Retail,2024-09-22,9999-12-31,1
+581,492,CUST00492,Kiaan,Chanda,Female,taran25@gmail.com,Chennai,Tamil Nadu,India,Retail,2024-10-18,2024-09-21,0
+582,493,CUST00493,Kavya,Bhatia,Other,chandapihu@yahoo.com,Thane,Maharashtra,India,Premium,2023-08-25,9999-12-31,1
+583,494,CUST00494,Yuvaan,Lal,Male,taranbajaj@hotmail.com,Delhi,Delhi,India,Corporate,2024-06-06,9999-12-31,1
+584,495,CUST00495,Yakshit,Sengupta,Female,divij40@gmail.com,Mumbai,Maharashtra,India,Retail,2025-12-03,9999-12-31,1
+585,496,CUST00496,Shray,Lad,Other,pihu95@hotmail.com,Bengaluru,Karnataka,India,Corporate,2024-09-10,9999-12-31,1
+586,497,CUST00497,Manjari,Shukla,Male,jbahl@yahoo.com,Thane,Maharashtra,India,Premium,2025-10-04,9999-12-31,1
+587,497,CUST00497,Manjari,Shukla,Male,jbahl@yahoo.com,Hyderabad,Telangana,India,Premium,2023-07-29,2025-10-03,0
+588,498,CUST00498,Krish,Gandhi,Male,gsunder@hotmail.com,Pune,Maharashtra,India,Premium,2023-03-11,9999-12-31,1
+589,499,CUST00499,Ira,Khare,Female,soniaaina@hotmail.com,Thane,Maharashtra,India,Corporate,2025-12-08,9999-12-31,1
+590,500,CUST00500,Aaryahi,Khalsa,Other,hridaansagar@raval.com,Delhi,Delhi,India,Retail,2023-03-07,9999-12-31,1

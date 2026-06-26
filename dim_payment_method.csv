@@ -1,0 +1,7 @@
+payment_method_key,payment_method,payment_type
+1,UPI,Digital
+2,Credit Card,Card
+3,Debit Card,Card
+4,Net Banking,Digital
+5,Cash,Offline
+6,Wallet,Digital

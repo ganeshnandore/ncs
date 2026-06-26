@@ -1,0 +1,201 @@
+product_key,product_id,product_code,product_name,category,sub_category,brand,standard_price,product_status,created_date
+1,1,PROD00001,Suri Mobile,Electronics,Mobile,Venkatesh Ltd,70621.19,ACTIVE,2023-10-22
+2,2,PROD00002,Jhaveri Mobile,Electronics,Mobile,Brar-Lad,3965.31,ACTIVE,2025-03-29
+3,3,PROD00003,"Banerjee, Mobile",Electronics,Mobile,Kothari PLC,24803.35,ACTIVE,2024-02-18
+4,4,PROD00004,Varkey-Lad Mobile,Electronics,Mobile,"Borde, Shan and Keer",3130.45,DISCONTINUED,2025-02-21
+5,5,PROD00005,Shetty Mobile,Electronics,Mobile,"Balay, Srivastava and Chandran",9122.38,ACTIVE,2024-09-04
+6,6,PROD00006,Das-Dave Mobile,Electronics,Mobile,Mani-Keer,42760.67,DISCONTINUED,2023-02-17
+7,7,PROD00007,Deol Mobile,Electronics,Mobile,Grover-Karpe,20909.83,DISCONTINUED,2024-11-05
+8,8,PROD00008,"Tandon, Mobile",Electronics,Mobile,Sarna-Doctor,13298.58,ACTIVE,2023-05-03
+9,9,PROD00009,Ranganathan Laptop,Electronics,Laptop,Taneja-Atwal,89532.78,ACTIVE,2025-06-24
+10,10,PROD00010,"Char, Laptop",Electronics,Laptop,"Aurora, Batta and Krishna",86366.67,ACTIVE,2025-10-18
+11,11,PROD00011,"Sawhney, Laptop",Electronics,Laptop,"Sidhu, Dhar and Shan",68126.42,ACTIVE,2023-08-21
+12,12,PROD00012,"Sankaran, Laptop",Electronics,Laptop,"Ramanathan, Venkatesh and Hayre",62113.47,DISCONTINUED,2023-07-20
+13,13,PROD00013,Hayer-Yohannan Laptop,Electronics,Laptop,Dasgupta-Bhatnagar,8846.86,ACTIVE,2025-09-08
+14,14,PROD00014,Balakrishnan-Sarraf Laptop,Electronics,Laptop,Gour-Hegde,67665.65,ACTIVE,2023-09-27
+15,15,PROD00015,Subramaniam-Deep Laptop,Electronics,Laptop,"Ratti, Virk and Sarna",66199.2,ACTIVE,2023-04-26
+16,16,PROD00016,Grewal Laptop,Electronics,Laptop,"D’Alia, Dugar and Agarwal",33791.9,ACTIVE,2023-06-30
+17,17,PROD00017,"Rajagopalan, Headphones",Electronics,Headphones,"Dada, Vyas and Hegde",8435.66,ACTIVE,2023-01-11
+18,18,PROD00018,Kapur Headphones,Electronics,Headphones,Chadha Group,64857.75,DISCONTINUED,2024-07-02
+19,19,PROD00019,Varkey Headphones,Electronics,Headphones,"Loke, Ravel and Lanka",3567.26,ACTIVE,2025-12-06
+20,20,PROD00020,Saha-Kale Headphones,Electronics,Headphones,"Bath, Salvi and Deshmukh",54253.52,ACTIVE,2025-03-18
+21,21,PROD00021,Mander Headphones,Electronics,Headphones,"Sachdeva, Raman and Chatterjee",81944.79,DISCONTINUED,2023-08-29
+22,22,PROD00022,Borra Headphones,Electronics,Headphones,"Chandran, Johal and Majumdar",16029.91,ACTIVE,2025-02-16
+23,23,PROD00023,Randhawa-Sharma Headphones,Electronics,Headphones,Bala Inc,32239.16,DISCONTINUED,2025-09-24
+24,24,PROD00024,"Suri, Headphones",Electronics,Headphones,Din-Banerjee,52533.55,ACTIVE,2025-07-29
+25,25,PROD00025,Shukla-Kurian Smart Watch,Electronics,Smart Watch,"Divan, Bal and Dhingra",24852.56,ACTIVE,2024-05-13
+26,26,PROD00026,Joshi-Ganesh Smart Watch,Electronics,Smart Watch,Kade-Kar,10162.45,ACTIVE,2025-10-18
+27,27,PROD00027,Kumer Smart Watch,Electronics,Smart Watch,Ganesh Group,87179.16,ACTIVE,2024-10-16
+28,28,PROD00028,"Date, Smart Watch",Electronics,Smart Watch,"Sankaran, Manne and Sethi",29269.15,ACTIVE,2023-04-05
+29,29,PROD00029,Kaul-Kalita Smart Watch,Electronics,Smart Watch,Gupta Group,5441.18,ACTIVE,2023-03-18
+30,30,PROD00030,Kunda Smart Watch,Electronics,Smart Watch,Tak Group,26209.36,ACTIVE,2024-03-24
+31,31,PROD00031,"Tak, Smart Watch",Electronics,Smart Watch,Bora and Sons,13749.37,DISCONTINUED,2024-12-04
+32,32,PROD00032,Bansal Smart Watch,Electronics,Smart Watch,Jani PLC,44279.99,DISCONTINUED,2024-02-06
+33,33,PROD00033,"Sawhney, Tablet",Electronics,Tablet,"Lata, Kar and Sood",24524.84,ACTIVE,2025-01-07
+34,34,PROD00034,Vasa Tablet,Electronics,Tablet,Sankaran PLC,26944.8,ACTIVE,2025-11-16
+35,35,PROD00035,Mani Tablet,Electronics,Tablet,Char LLC,30717.83,DISCONTINUED,2024-07-10
+36,36,PROD00036,Rege-Lad Tablet,Electronics,Tablet,Chaudhary-Subramanian,3359.04,ACTIVE,2023-03-14
+37,37,PROD00037,Dugal-Deshmukh Tablet,Electronics,Tablet,Dada and Sons,30283.45,ACTIVE,2023-11-09
+38,38,PROD00038,Chokshi Tablet,Electronics,Tablet,Sant Ltd,58381.18,ACTIVE,2025-06-02
+39,39,PROD00039,Bal-Das Tablet,Electronics,Tablet,Atwal-Kaur,66815.92,ACTIVE,2024-04-29
+40,40,PROD00040,"Kannan, Tablet",Electronics,Tablet,"Jayaraman, Sharma and Kibe",77558.89,ACTIVE,2025-01-22
+41,41,PROD00041,Edwin-Suresh Shirt,Fashion,Shirt,Chaudry-Sachdev,38886.98,ACTIVE,2025-04-23
+42,42,PROD00042,"Chowdhury, Shirt",Fashion,Shirt,"Ratta, Thaker and Grover",85945.59,ACTIVE,2025-07-27
+43,43,PROD00043,Sabharwal Shirt,Fashion,Shirt,Uppal PLC,10026.64,ACTIVE,2025-02-04
+44,44,PROD00044,"Dhar, Shirt",Fashion,Shirt,Master and Sons,38655.23,ACTIVE,2025-04-13
+45,45,PROD00045,"Wason, Shirt",Fashion,Shirt,Vasa Inc,34176.32,ACTIVE,2023-01-14
+46,46,PROD00046,"Luthra, Shirt",Fashion,Shirt,Anne-Desai,63766.51,DISCONTINUED,2024-11-06
+47,47,PROD00047,Saxena Shirt,Fashion,Shirt,Sethi-Anand,67198.27,ACTIVE,2024-04-01
+48,48,PROD00048,"Borah, Shirt",Fashion,Shirt,Issac and Sons,58553.26,DISCONTINUED,2025-03-14
+49,49,PROD00049,Bose-Randhawa Jeans,Fashion,Jeans,"Mander, Chanda and Cheema",17564.98,DISCONTINUED,2024-09-29
+50,50,PROD00050,"Sha, Jeans",Fashion,Jeans,"Tak, Khosla and Srinivasan",12309.56,DISCONTINUED,2025-05-19
+51,51,PROD00051,"Dar, Jeans",Fashion,Jeans,Bali-Atwal,29890.8,ACTIVE,2024-08-07
+52,52,PROD00052,Vohra Jeans,Fashion,Jeans,Vora PLC,73708.87,ACTIVE,2025-01-13
+53,53,PROD00053,Raja Jeans,Fashion,Jeans,Kalla-Bobal,3970.2,ACTIVE,2024-06-03
+54,54,PROD00054,"Gulati, Jeans",Fashion,Jeans,Sachdeva-Chahal,37535.56,ACTIVE,2023-11-23
+55,55,PROD00055,Vora Jeans,Fashion,Jeans,Bhattacharyya Ltd,44345.56,ACTIVE,2025-02-25
+56,56,PROD00056,Kaul-Bhardwaj Jeans,Fashion,Jeans,"Gaba, Jain and Tripathi",21359.7,DISCONTINUED,2024-10-03
+57,57,PROD00057,Rege Shoes,Fashion,Shoes,"De, Datta and Gole",43830.46,ACTIVE,2024-06-22
+58,58,PROD00058,"Gaba, Shoes",Fashion,Shoes,"Lata, Seshadri and Contractor",23332.55,ACTIVE,2025-11-17
+59,59,PROD00059,Rege-Dua Shoes,Fashion,Shoes,Wadhwa PLC,44106.28,ACTIVE,2024-11-21
+60,60,PROD00060,Sehgal-Tailor Shoes,Fashion,Shoes,"Krishna, Sridhar and Koshy",15541.16,ACTIVE,2025-12-23
+61,61,PROD00061,Walia-Dhar Shoes,Fashion,Shoes,Ratti PLC,83081.25,ACTIVE,2025-11-16
+62,62,PROD00062,Wason-Kara Shoes,Fashion,Shoes,Rana-Buch,17807.12,ACTIVE,2023-10-15
+63,63,PROD00063,"Thaman, Shoes",Fashion,Shoes,Mahal Inc,56175.54,ACTIVE,2023-08-01
+64,64,PROD00064,Kunda Shoes,Fashion,Shoes,Contractor-Sawhney,55407.04,ACTIVE,2023-05-23
+65,65,PROD00065,Bhattacharyya-Iyer Jacket,Fashion,Jacket,"Sabharwal, Trivedi and Ahuja",52488.35,ACTIVE,2023-10-12
+66,66,PROD00066,"Kamdar, Jacket",Fashion,Jacket,"Swaminathan, Talwar and Goyal",43819.65,ACTIVE,2023-10-17
+67,67,PROD00067,Lala Jacket,Fashion,Jacket,Guha-Rastogi,81789.5,ACTIVE,2023-07-04
+68,68,PROD00068,Varty Jacket,Fashion,Jacket,"Ben, Kara and Kapadia",79711.16,DISCONTINUED,2023-07-20
+69,69,PROD00069,Chokshi Jacket,Fashion,Jacket,Gour-Sarkar,25427.34,ACTIVE,2024-10-12
+70,70,PROD00070,Dixit-Bhardwaj Jacket,Fashion,Jacket,Wadhwa and Sons,34507.53,ACTIVE,2025-05-08
+71,71,PROD00071,"Borde, Jacket",Fashion,Jacket,Sami Inc,83097.65,ACTIVE,2025-01-07
+72,72,PROD00072,Devi Jacket,Fashion,Jacket,Gill-Bera,80354.44,ACTIVE,2025-10-25
+73,73,PROD00073,Ganesh Kurta,Fashion,Kurta,"Ahuja, Shroff and Thakur",24168.66,ACTIVE,2023-09-29
+74,74,PROD00074,Walla-Mallick Kurta,Fashion,Kurta,Chakraborty Ltd,57164.35,DISCONTINUED,2023-07-24
+75,75,PROD00075,D’Alia-Dhillon Kurta,Fashion,Kurta,"Bhakta, Sarkar and Dua",60660.28,ACTIVE,2024-11-09
+76,76,PROD00076,"Borde, Kurta",Fashion,Kurta,Chawla-Dixit,51607.51,DISCONTINUED,2024-09-06
+77,77,PROD00077,Aurora Kurta,Fashion,Kurta,Desai-Dani,64632.31,ACTIVE,2025-07-23
+78,78,PROD00078,"Saxena, Kurta",Fashion,Kurta,Kari-Batta,18592.07,ACTIVE,2024-09-24
+79,79,PROD00079,"Rege, Kurta",Fashion,Kurta,Bir-Sabharwal,70628.3,DISCONTINUED,2025-04-08
+80,80,PROD00080,Vasa Kurta,Fashion,Kurta,Ratta PLC,36183.3,DISCONTINUED,2023-04-10
+81,81,PROD00081,Mandal-Sethi Mixer,Home,Mixer,Chaudhuri Inc,38325.92,ACTIVE,2025-08-09
+82,82,PROD00082,Lala Mixer,Home,Mixer,Dube-Vaidya,57971.48,ACTIVE,2025-05-31
+83,83,PROD00083,Lala Mixer,Home,Mixer,"Ghose, Ramakrishnan and Walia",46113.64,ACTIVE,2025-03-10
+84,84,PROD00084,Singhal-Sule Mixer,Home,Mixer,"Kata, Chaudhari and Arya",11126.69,ACTIVE,2023-10-09
+85,85,PROD00085,Dubey Mixer,Home,Mixer,Chaudhari-Deshmukh,84167.57,ACTIVE,2023-06-03
+86,86,PROD00086,Dugar Mixer,Home,Mixer,Doctor-Kunda,43141.83,ACTIVE,2023-02-22
+87,87,PROD00087,Shanker-Gill Mixer,Home,Mixer,Subramaniam PLC,29649.57,ACTIVE,2024-07-09
+88,88,PROD00088,Wable Mixer,Home,Mixer,Ramanathan Inc,2636.12,DISCONTINUED,2024-10-29
+89,89,PROD00089,Gole-Gopal Chair,Home,Chair,Khurana Inc,23680.6,ACTIVE,2024-05-13
+90,90,PROD00090,"Shere, Chair",Home,Chair,"Zacharia, Shan and Bora",58894.14,ACTIVE,2024-08-06
+91,91,PROD00091,Chandra Chair,Home,Chair,"Contractor, Khare and Khosla",1236.6,ACTIVE,2024-09-26
+92,92,PROD00092,"Karan, Chair",Home,Chair,"Goswami, Sachdev and Saha",29371.42,ACTIVE,2024-08-27
+93,93,PROD00093,Mallick-Taneja Chair,Home,Chair,"Krishna, Joshi and Sampath",83948.68,DISCONTINUED,2023-02-09
+94,94,PROD00094,Rama Chair,Home,Chair,"Gulati, Lad and Arora",85073.09,ACTIVE,2025-03-02
+95,95,PROD00095,Bhatt-Goel Chair,Home,Chair,Dutt-Kanda,35902.27,ACTIVE,2023-08-10
+96,96,PROD00096,"Seshadri, Chair",Home,Chair,Vohra-Thaman,79126.94,ACTIVE,2024-05-21
+97,97,PROD00097,Sur Lamp,Home,Lamp,"Bora, Sankar and Bali",24546.05,ACTIVE,2023-01-16
+98,98,PROD00098,Mani-Lanka Lamp,Home,Lamp,Shenoy LLC,30765.42,ACTIVE,2023-06-16
+99,99,PROD00099,"Buch, Lamp",Home,Lamp,"Sagar, Das and Jayaraman",16973.83,ACTIVE,2025-08-19
+100,100,PROD00100,Varma Lamp,Home,Lamp,Buch LLC,68020.8,ACTIVE,2025-01-26
+101,101,PROD00101,Dugar-Khurana Lamp,Home,Lamp,Sastry PLC,24784.14,ACTIVE,2023-01-18
+102,102,PROD00102,Kunda-Bera Lamp,Home,Lamp,"Chaudhari, Sarkar and Varughese",15151.97,ACTIVE,2024-07-08
+103,103,PROD00103,Samra Lamp,Home,Lamp,"Das, Gala and Sane",48084.8,ACTIVE,2023-06-04
+104,104,PROD00104,Badami-Bhandari Lamp,Home,Lamp,Bakshi Group,12128.02,ACTIVE,2024-11-26
+105,105,PROD00105,Vyas-Maharaj Bedsheet,Home,Bedsheet,"Zacharia, Zacharia and Shanker",87214.41,DISCONTINUED,2024-06-12
+106,106,PROD00106,Shukla Bedsheet,Home,Bedsheet,"Iyer, Bahl and Dutta",33944.39,ACTIVE,2023-04-13
+107,107,PROD00107,"Sha, Bedsheet",Home,Bedsheet,"Goda, Chandra and Venkataraman",72497.33,DISCONTINUED,2023-08-19
+108,108,PROD00108,Bera Bedsheet,Home,Bedsheet,"Wadhwa, Ganesh and Batra",67553.04,DISCONTINUED,2024-06-14
+109,109,PROD00109,Kara-Loyal Bedsheet,Home,Bedsheet,"Andra, Walla and Dhar",57632.67,ACTIVE,2025-05-29
+110,110,PROD00110,Ben Bedsheet,Home,Bedsheet,"Majumdar, Bala and Batta",66707.41,ACTIVE,2024-04-11
+111,111,PROD00111,Mani Bedsheet,Home,Bedsheet,Lanka-Choudhry,85894.17,ACTIVE,2025-11-19
+112,112,PROD00112,Bassi-Bhandari Bedsheet,Home,Bedsheet,Sanghvi Ltd,55551.09,DISCONTINUED,2024-11-30
+113,113,PROD00113,Mammen Cookware,Home,Cookware,"Ramesh, Khare and Aggarwal",3849.47,ACTIVE,2024-07-28
+114,114,PROD00114,"Madan, Cookware",Home,Cookware,Gandhi-Uppal,29477.52,DISCONTINUED,2024-11-15
+115,115,PROD00115,Grover-Verma Cookware,Home,Cookware,Chad-Warrior,27719.19,DISCONTINUED,2023-06-18
+116,116,PROD00116,Vasa Cookware,Home,Cookware,Viswanathan-Sandhu,31214.75,ACTIVE,2024-05-27
+117,117,PROD00117,Wason-Wali Cookware,Home,Cookware,Deshpande LLC,9690.22,ACTIVE,2025-08-03
+118,118,PROD00118,Mallick-Gara Cookware,Home,Cookware,Kashyap PLC,89386.32,ACTIVE,2023-08-23
+119,119,PROD00119,Datta Cookware,Home,Cookware,Bir and Sons,55361.95,ACTIVE,2024-07-07
+120,120,PROD00120,Balay Cookware,Home,Cookware,"Cheema, Vig and Lal",36676.06,DISCONTINUED,2023-02-11
+121,121,PROD00121,Arora-Banik Fiction,Books,Fiction,"Kapur, Raju and Warrior",5595.53,ACTIVE,2024-06-12
+122,122,PROD00122,"Bora, Fiction",Books,Fiction,Ranganathan Group,37103.54,ACTIVE,2024-01-07
+123,123,PROD00123,Behl Fiction,Books,Fiction,"Anne, Sagar and Dhar",68626.8,ACTIVE,2025-01-15
+124,124,PROD00124,Gera Fiction,Books,Fiction,"Bhattacharyya, Sheth and Singhal",24487.71,ACTIVE,2024-03-11
+125,125,PROD00125,Chacko-Buch Fiction,Books,Fiction,Garde Group,74760.64,DISCONTINUED,2023-04-23
+126,126,PROD00126,Deshpande-Manne Fiction,Books,Fiction,Thakkar Group,55722.33,ACTIVE,2024-06-28
+127,127,PROD00127,"Kanda, Fiction",Books,Fiction,Bakshi-Chhabra,55588.81,ACTIVE,2023-12-22
+128,128,PROD00128,Halder Fiction,Books,Fiction,"Mallick, Subramanian and Kapoor",82045.61,ACTIVE,2025-08-30
+129,129,PROD00129,"Ramakrishnan, Business",Books,Business,Aurora PLC,82475.8,ACTIVE,2024-04-23
+130,130,PROD00130,Mannan-Wali Business,Books,Business,"Tiwari, Ray and Dhar",83771.56,DISCONTINUED,2025-12-22
+131,131,PROD00131,Kari-Lanka Business,Books,Business,"Kamdar, Divan and Kapadia",42302.74,ACTIVE,2025-03-04
+132,132,PROD00132,Tiwari Business,Books,Business,Borah-Bumb,11918.76,DISCONTINUED,2023-03-17
+133,133,PROD00133,Madan-Raja Business,Books,Business,De-Borra,44155.66,ACTIVE,2024-10-26
+134,134,PROD00134,Gola-Wali Business,Books,Business,Tandon-Bhalla,1974.31,ACTIVE,2024-11-23
+135,135,PROD00135,Ravel-Shroff Business,Books,Business,Madan Inc,44732.35,ACTIVE,2023-10-23
+136,136,PROD00136,"Sridhar, Business",Books,Business,Kari and Sons,52046.73,ACTIVE,2024-02-21
+137,137,PROD00137,"Mand, Technology",Books,Technology,Choudhury PLC,45090.87,ACTIVE,2023-04-09
+138,138,PROD00138,Kapadia-Majumdar Technology,Books,Technology,Bahri-Vohra,43712.7,ACTIVE,2025-09-20
+139,139,PROD00139,Chaudhari Technology,Books,Technology,Edwin-Sahni,51861.24,DISCONTINUED,2024-02-11
+140,140,PROD00140,Krishnan Technology,Books,Technology,"Malhotra, Lad and Amble",24196.23,ACTIVE,2023-01-08
+141,141,PROD00141,Chad Technology,Books,Technology,"Chaudhary, Doshi and Bhakta",82751.59,ACTIVE,2024-06-05
+142,142,PROD00142,Bobal Technology,Books,Technology,Krishnan-Banerjee,79051.98,ACTIVE,2024-08-06
+143,143,PROD00143,Hayer Technology,Books,Technology,"Lanka, Balay and Buch",79073.11,ACTIVE,2023-05-15
+144,144,PROD00144,Jayaraman Technology,Books,Technology,"Singh, Sani and Aurora",40720.96,ACTIVE,2025-01-05
+145,145,PROD00145,"Kanda, Finance",Books,Finance,De Group,15363.42,ACTIVE,2025-05-13
+146,146,PROD00146,Kanda Finance,Books,Finance,Chana LLC,7417.5,ACTIVE,2023-10-28
+147,147,PROD00147,Talwar-Sane Finance,Books,Finance,Desai-Balay,60570.4,DISCONTINUED,2023-12-28
+148,148,PROD00148,Saha Finance,Books,Finance,"Wable, Kannan and Banik",15932.75,ACTIVE,2023-07-09
+149,149,PROD00149,Sahni Finance,Books,Finance,"Gade, Dass and Bains",44285.19,ACTIVE,2024-06-01
+150,150,PROD00150,"Kar, Finance",Books,Finance,"Arya, Lala and Bumb",69713.21,ACTIVE,2023-12-13
+151,151,PROD00151,Sodhi-Kar Finance,Books,Finance,Ramachandran and Sons,55023.83,ACTIVE,2025-09-29
+152,152,PROD00152,Guha Finance,Books,Finance,Bir-Bhandari,5433.5,ACTIVE,2025-08-04
+153,153,PROD00153,"Dube, Self Help",Books,Self Help,"Yohannan, Talwar and Rao",75408.31,ACTIVE,2023-07-10
+154,154,PROD00154,Sridhar-Subramaniam Self Help,Books,Self Help,"Sodhi, Dugar and Bali",23377.91,ACTIVE,2024-11-30
+155,155,PROD00155,Sandal-Sanghvi Self Help,Books,Self Help,Tandon-Dixit,23471.99,DISCONTINUED,2023-02-22
+156,156,PROD00156,Sarna Self Help,Books,Self Help,Bobal and Sons,2835.93,ACTIVE,2023-12-24
+157,157,PROD00157,Arora-Garde Self Help,Books,Self Help,Cherian PLC,14710.68,ACTIVE,2024-07-07
+158,158,PROD00158,Agate-Buch Self Help,Books,Self Help,Tandon Group,79305.14,ACTIVE,2023-01-07
+159,159,PROD00159,Chowdhury-Krishnan Self Help,Books,Self Help,"Chander, Seth and Hora",23494.11,ACTIVE,2024-09-18
+160,160,PROD00160,Ratta Self Help,Books,Self Help,"Ben, Lall and Chokshi",29275.25,ACTIVE,2023-12-19
+161,161,PROD00161,Trivedi Cricket Bat,Sports,Cricket Bat,Maharaj-Saha,10470.55,ACTIVE,2023-08-12
+162,162,PROD00162,Singh-Choudhary Cricket Bat,Sports,Cricket Bat,Sridhar-Sandhu,52793.48,ACTIVE,2023-11-25
+163,163,PROD00163,Jayaraman-Handa Cricket Bat,Sports,Cricket Bat,"Singhal, Bal and Bhalla",69168.91,ACTIVE,2024-10-12
+164,164,PROD00164,Dugal-Srinivas Cricket Bat,Sports,Cricket Bat,Sarma-Buch,30855.62,ACTIVE,2025-12-23
+165,165,PROD00165,Chandra-Gill Cricket Bat,Sports,Cricket Bat,"Buch, Gera and Mane",18744.51,ACTIVE,2025-11-21
+166,166,PROD00166,Dugal-Agarwal Cricket Bat,Sports,Cricket Bat,Dutta Inc,44058.81,ACTIVE,2025-10-24
+167,167,PROD00167,Walla-Bhat Cricket Bat,Sports,Cricket Bat,Dayal LLC,4633.7,ACTIVE,2023-12-24
+168,168,PROD00168,"Tara, Cricket Bat",Sports,Cricket Bat,Varkey-Vasa,45295.81,ACTIVE,2023-12-10
+169,169,PROD00169,"Roy, Football",Sports,Football,"Bahri, Trivedi and Madan",25907.97,ACTIVE,2025-07-25
+170,170,PROD00170,"Virk, Football",Sports,Football,Barad Inc,19152.22,ACTIVE,2025-06-10
+171,171,PROD00171,Vaidya Football,Sports,Football,Krishnamurthy Group,29240.22,ACTIVE,2023-03-22
+172,172,PROD00172,Walia Football,Sports,Football,Chaudry-Singh,30945.3,ACTIVE,2024-11-29
+173,173,PROD00173,"Aggarwal, Football",Sports,Football,"Sem, Bala and Vora",61338.68,DISCONTINUED,2023-04-02
+174,174,PROD00174,Manne Football,Sports,Football,"Setty, Sankar and Gera",27655.16,ACTIVE,2024-05-16
+175,175,PROD00175,Verma Football,Sports,Football,Dass-Rao,48543.19,ACTIVE,2023-02-26
+176,176,PROD00176,"Soni, Football",Sports,Football,Dewan Inc,72487.15,ACTIVE,2025-06-07
+177,177,PROD00177,Wali Yoga Mat,Sports,Yoga Mat,Varghese Inc,80518.63,ACTIVE,2023-05-25
+178,178,PROD00178,Venkataraman-Sunder Yoga Mat,Sports,Yoga Mat,"Chhabra, Bose and Cheema",84271.13,ACTIVE,2025-06-29
+179,179,PROD00179,"Lata, Yoga Mat",Sports,Yoga Mat,"Suresh, Salvi and Sibal",33778.96,ACTIVE,2025-03-06
+180,180,PROD00180,Chhabra-Kalla Yoga Mat,Sports,Yoga Mat,Baral-Desai,35531.97,ACTIVE,2025-12-17
+181,181,PROD00181,Walla Yoga Mat,Sports,Yoga Mat,"Sarna, Shetty and Dyal",51090.84,DISCONTINUED,2023-07-04
+182,182,PROD00182,Sachdeva Yoga Mat,Sports,Yoga Mat,"Gaba, Sani and Basak",75591.13,ACTIVE,2023-03-20
+183,183,PROD00183,Kashyap-Walla Yoga Mat,Sports,Yoga Mat,Mander-Bhat,80720.36,ACTIVE,2025-02-16
+184,184,PROD00184,Tara-Johal Yoga Mat,Sports,Yoga Mat,Kannan-Bora,83000.05,ACTIVE,2024-07-22
+185,185,PROD00185,Kala-Roy Dumbbell,Sports,Dumbbell,"Agrawal, Batta and Karnik",37639.87,ACTIVE,2025-10-12
+186,186,PROD00186,Raja-Bedi Dumbbell,Sports,Dumbbell,Tailor PLC,31422.61,ACTIVE,2025-02-25
+187,187,PROD00187,Mangal Dumbbell,Sports,Dumbbell,Wali Group,67631.94,ACTIVE,2023-09-03
+188,188,PROD00188,Garde-Zachariah Dumbbell,Sports,Dumbbell,Banik-Sandhu,84168.19,ACTIVE,2023-04-18
+189,189,PROD00189,Mane-Tripathi Dumbbell,Sports,Dumbbell,"Sood, Kurian and Gola",68781.62,ACTIVE,2023-12-12
+190,190,PROD00190,Sami Dumbbell,Sports,Dumbbell,"Sharaf, Cherian and Khalsa",79690.82,ACTIVE,2023-07-26
+191,191,PROD00191,"Lata, Dumbbell",Sports,Dumbbell,Chad-Vohra,9896.44,ACTIVE,2024-12-21
+192,192,PROD00192,Sathe-Bawa Dumbbell,Sports,Dumbbell,Vaidya and Sons,56086.92,ACTIVE,2024-10-27
+193,193,PROD00193,Baria Shoes,Sports,Shoes,Kapoor and Sons,67795.58,DISCONTINUED,2023-07-23
+194,194,PROD00194,Raman Shoes,Sports,Shoes,Mahal and Sons,6367.17,ACTIVE,2025-07-01
+195,195,PROD00195,Chauhan-Viswanathan Shoes,Sports,Shoes,"Salvi, Banik and Dugar",20028.81,DISCONTINUED,2024-06-02
+196,196,PROD00196,Bahl Shoes,Sports,Shoes,Butala Inc,15035.97,ACTIVE,2024-06-12
+197,197,PROD00197,Rout Shoes,Sports,Shoes,"Kakar, Bhatt and Kunda",34314.92,ACTIVE,2025-09-20
+198,198,PROD00198,Shroff Shoes,Sports,Shoes,Manne Ltd,29981.6,ACTIVE,2025-02-22
+199,199,PROD00199,Khanna-Ganesh Shoes,Sports,Shoes,Ravel Group,76343.14,ACTIVE,2023-07-13
+200,200,PROD00200,Tella Shoes,Sports,Shoes,"Datta, Tak and Savant",50983.3,ACTIVE,2024-09-27
